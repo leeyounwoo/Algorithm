@@ -1,2 +1,6 @@
-print("강한친구 대한육군")
-print("강한친구 대한육군")
+n = int(input())
+a = input()
+ans = 0
+for i in range(len(a)):
+    ans += int(a[i])
+print(ans)
