@@ -2,29 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="44cccb13-970e-41f7-8e4e-b6f1d04e59c6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06. 함수/s10.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/06. 함수/s11.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/06. 함수/s2.py" beforeDir="false" afterPath="$PROJECT_DIR$/06. 함수/s2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06. 함수/s3.py" beforeDir="false" afterPath="$PROJECT_DIR$/06. 함수/s3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06. 함수/s4.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/06. 함수/s5.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/06. 함수/s6.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/06. 함수/s7.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/06. 함수/s8.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/06. 함수/s9.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/07. 문자열/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/07. 문자열/s1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07. 문자열/s10.py" beforeDir="false" afterPath="$PROJECT_DIR$/07. 문자열/s10.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07. 문자열/s11.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/07. 문자열/s2.py" beforeDir="false" afterPath="$PROJECT_DIR$/07. 문자열/s2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07. 문자열/s3.py" beforeDir="false" afterPath="$PROJECT_DIR$/07. 문자열/s3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07. 문자열/s4.py" beforeDir="false" afterPath="$PROJECT_DIR$/07. 문자열/s4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07. 문자열/s5.py" beforeDir="false" afterPath="$PROJECT_DIR$/07. 문자열/s5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07. 문자열/s6.py" beforeDir="false" afterPath="$PROJECT_DIR$/07. 문자열/s6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07. 문자열/s7.py" beforeDir="false" afterPath="$PROJECT_DIR$/07. 문자열/s7.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07. 문자열/s8.py" beforeDir="false" afterPath="$PROJECT_DIR$/07. 문자열/s8.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07. 문자열/s9.py" beforeDir="false" afterPath="$PROJECT_DIR$/07. 문자열/s9.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08. 기본 수학 1/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/08. 기본 수학 1/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08. 기본 수학 1/s2.py" beforeDir="false" afterPath="$PROJECT_DIR$/08. 기본 수학 1/s2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08. 기본 수학 1/s3.py" beforeDir="false" afterPath="$PROJECT_DIR$/08. 기본 수학 1/s3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08. 기본 수학 1/s4.py" beforeDir="false" afterPath="$PROJECT_DIR$/08. 기본 수학 1/s4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08. 기본 수학 1/s5.py" beforeDir="false" afterPath="$PROJECT_DIR$/08. 기본 수학 1/s5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08. 기본 수학 1/s6.py" beforeDir="false" afterPath="$PROJECT_DIR$/08. 기본 수학 1/s6.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -35,91 +18,55 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/07. 문자열/s1.py">
+        <entry file="file://$PROJECT_DIR$/08. 기본 수학 1/s1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="9" selection-start-column="9" selection-end-column="9" />
+            <state relative-caret-position="231">
+              <caret line="7" column="16" lean-forward="true" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/07. 문자열/s2.py">
+        <entry file="file://$PROJECT_DIR$/08. 기본 수학 1/s2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+            <state relative-caret-position="330">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/07. 문자열/s3.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="5" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/07. 문자열/s4.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="5" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/07. 문자열/s5.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="13" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/07. 문자열/s6.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/07. 문자열/s7.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/07. 문자열/s8.py">
+        <entry file="file://$PROJECT_DIR$/08. 기본 수학 1/s3.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="462">
-              <caret line="14" column="16" lean-forward="true" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/07. 문자열/s9.py">
+        <entry file="file://$PROJECT_DIR$/08. 기본 수학 1/s4.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2508">
-              <caret line="76" column="25" lean-forward="true" selection-start-line="76" selection-start-column="25" selection-end-line="76" selection-end-column="25" />
+            <state relative-caret-position="297">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/08. 기본 수학 1/s5.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="528">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/07. 문자열/s10.py">
+        <entry file="file://$PROJECT_DIR$/08. 기본 수학 1/s6.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="7" column="34" lean-forward="true" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+            <state relative-caret-position="198">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
         </entry>
@@ -132,11 +79,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/01. 입출력과 사칙연산/01_Hello World_2557.py" />
-        <option value="$PROJECT_DIR$/01. 입출력과 사칙연산/02_We love kriii.py" />
-        <option value="$PROJECT_DIR$/01. 입출력과 사칙연산/s1.py" />
-        <option value="$PROJECT_DIR$/01. 입출력과 사칙연산/s3.py" />
-        <option value="$PROJECT_DIR$/01. 입출력과 사칙연산/s4.py" />
         <option value="$PROJECT_DIR$/01. 입출력과 사칙연산/s5.py" />
         <option value="$PROJECT_DIR$/01. 입출력과 사칙연산/s6.py" />
         <option value="$PROJECT_DIR$/01. 입출력과 사칙연산/s7.py" />
@@ -182,12 +124,18 @@
         <option value="$PROJECT_DIR$/07. 문자열/s8.py" />
         <option value="$PROJECT_DIR$/07. 문자열/s9.py" />
         <option value="$PROJECT_DIR$/07. 문자열/s10.py" />
+        <option value="$PROJECT_DIR$/08. 기본 수학 1/s1.py" />
+        <option value="$PROJECT_DIR$/08. 기본 수학 1/s2.py" />
+        <option value="$PROJECT_DIR$/08. 기본 수학 1/s3.py" />
+        <option value="$PROJECT_DIR$/08. 기본 수학 1/s4.py" />
+        <option value="$PROJECT_DIR$/08. 기본 수학 1/s5.py" />
+        <option value="$PROJECT_DIR$/08. 기본 수학 1/s6.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="1404" />
-    <option name="y" value="114" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="269" />
+    <option name="y" value="176" />
     <option name="width" value="1145" />
     <option name="height" value="1393" />
   </component>
@@ -197,17 +145,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope">
-        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
-          <expand>
-            <path>
-              <item name="BAEKJOON" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -218,7 +155,18 @@
             <path>
               <item name="BAEKJOON" type="b2602c69:ProjectViewProjectNode" />
               <item name="BAEKJOON" type="462c0819:PsiDirectoryNode" />
-              <item name="07. 문자열" type="462c0819:PsiDirectoryNode" />
+              <item name="08. 기본 수학 1" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="BAEKJOON" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
             </path>
           </expand>
           <select />
@@ -247,8 +195,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.s10">
-    <configuration name="s10" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.s5">
+    <configuration name="s1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="BAEKJOON" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -256,11 +204,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07. 문자열" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08. 기본 수학 1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07. 문자열/s10.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08. 기본 수학 1/s1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -269,7 +217,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="s6" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="s2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="BAEKJOON" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -277,11 +225,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07. 문자열" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08. 기본 수학 1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07. 문자열/s6.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08. 기본 수학 1/s2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -290,7 +238,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="s7" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="s3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="BAEKJOON" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -298,11 +246,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07. 문자열" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08. 기본 수학 1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07. 문자열/s7.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08. 기본 수학 1/s3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -311,7 +259,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="s8" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="s4" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="BAEKJOON" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -319,11 +267,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07. 문자열" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08. 기본 수학 1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07. 문자열/s8.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08. 기본 수학 1/s4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -332,7 +280,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="s9" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="s5" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="BAEKJOON" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -340,11 +288,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07. 문자열" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08. 기본 수학 1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07. 문자열/s9.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08. 기본 수학 1/s5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -355,11 +303,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.s10" />
-        <item itemvalue="Python.s9" />
-        <item itemvalue="Python.s8" />
-        <item itemvalue="Python.s7" />
-        <item itemvalue="Python.s6" />
+        <item itemvalue="Python.s5" />
+        <item itemvalue="Python.s4" />
+        <item itemvalue="Python.s3" />
+        <item itemvalue="Python.s2" />
+        <item itemvalue="Python.s1" />
       </list>
     </recent_temporary>
   </component>
@@ -377,14 +325,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1404" y="114" width="1145" height="1393" extended-state="0" />
+    <frame x="269" y="176" width="1145" height="1393" extended-state="1" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25112918" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.37728357" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.37728357" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -418,35 +367,6 @@
     </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/01. 입출력과 사칙연산/01_Hello World_2557.py" />
-    <entry file="file://$PROJECT_DIR$/01. 입출력과 사칙연산/s2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="1" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01. 입출력과 사칙연산/s3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="3" column="16" lean-forward="true" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01. 입출력과 사칙연산/s4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="4" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01. 입출력과 사칙연산/s5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="33">
-          <caret line="1" column="12" lean-forward="true" selection-end-line="1" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/01. 입출력과 사칙연산/s6.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="33">
@@ -744,21 +664,63 @@
     <entry file="file://$PROJECT_DIR$/07. 문자열/s8.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="462">
-          <caret line="14" column="16" lean-forward="true" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+          <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/07. 문자열/s9.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2508">
-          <caret line="76" column="25" lean-forward="true" selection-start-line="76" selection-start-column="25" selection-end-line="76" selection-end-column="25" />
+          <caret line="76" column="25" selection-start-line="76" selection-start-column="25" selection-end-line="76" selection-end-column="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/07. 문자열/s10.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="759">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08. 기본 수학 1/s1.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="231">
-          <caret line="7" column="34" lean-forward="true" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+          <caret line="7" column="16" lean-forward="true" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08. 기본 수학 1/s2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08. 기본 수학 1/s3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08. 기본 수학 1/s4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08. 기본 수학 1/s5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08. 기본 수학 1/s6.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
