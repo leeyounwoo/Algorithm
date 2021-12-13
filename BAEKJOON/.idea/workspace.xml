@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="44cccb13-970e-41f7-8e4e-b6f1d04e59c6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/09. 기본 수학 2/s10.py" beforeDir="false" afterPath="$PROJECT_DIR$/09. 기본 수학 2/s10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09. 기본 수학 2/s11.py" beforeDir="false" afterPath="$PROJECT_DIR$/09. 기본 수학 2/s11.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -48,11 +48,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/09. 기본 수학 2/s10.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/09. 기본 수학 2/s10_소수점출력.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="99">
-              <caret line="3" column="42" selection-start-line="3" selection-start-column="42" selection-end-line="3" selection-end-column="42" />
+            <state relative-caret-position="132">
+              <caret line="4" column="38" lean-forward="true" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/09. 기본 수학 2/s11.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="668">
+              <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -79,7 +88,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/03. for문/s2.py" />
         <option value="$PROJECT_DIR$/03. for문/s3.py" />
         <option value="$PROJECT_DIR$/03. for문/s4.py" />
         <option value="$PROJECT_DIR$/03. for문/s5.py" />
@@ -130,6 +138,7 @@
         <option value="$PROJECT_DIR$/09. 기본 수학 2/s8.py" />
         <option value="$PROJECT_DIR$/09. 기본 수학 2/s9.py" />
         <option value="$PROJECT_DIR$/09. 기본 수학 2/s10.py" />
+        <option value="$PROJECT_DIR$/09. 기본 수학 2/s11.py" />
       </list>
     </option>
   </component>
@@ -195,7 +204,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.s10">
+  <component name="RunManager" selected="Python.s11">
     <configuration name="s10" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="BAEKJOON" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -217,7 +226,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="s5" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="s11" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="BAEKJOON" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -229,7 +238,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\LeeYounWoo\Desktop\Algorithm\BAEKJOON\09. 기본 수학 2\s5_에라토스테네스의 체.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09. 기본 수학 2/s11.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -303,11 +312,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.s11" />
         <item itemvalue="Python.s10" />
         <item itemvalue="Python.s9" />
         <item itemvalue="Python.s8" />
         <item itemvalue="Python.s6" />
-        <item itemvalue="Python.s5" />
       </list>
     </recent_temporary>
   </component>
@@ -326,6 +335,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1332" y="86" width="1145" height="1393" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25112918" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -366,13 +376,6 @@
     </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/03. for문/s4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="3" column="16" lean-forward="true" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/03. for문/s5.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="33">
@@ -700,10 +703,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/09. 기본 수학 2/s10.py">
+    <entry file="file://$PROJECT_DIR$/09. 기본 수학 2/s10_소수점출력.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="3" column="42" selection-start-line="3" selection-start-column="42" selection-end-line="3" selection-end-column="42" />
+        <state relative-caret-position="132">
+          <caret line="4" column="38" lean-forward="true" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09. 기본 수학 2/s11.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="668">
+          <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
         </state>
       </provider>
     </entry>
