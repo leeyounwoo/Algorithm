@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="44cccb13-970e-41f7-8e4e-b6f1d04e59c6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/클래스별로 풀기/claas 2/1259_팰린드롬수.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/클래스별로 풀기/claas 2/11050_이항 계수 1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -48,11 +49,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/클래스별로 풀기/claas 2/1259_팰린드롬수.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="10" column="20" lean-forward="true" selection-end-line="10" selection-end-column="20" />
+            <state>
+              <caret selection-end-line="10" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/클래스별로 풀기/claas 2/11050_이항 계수 1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="5" column="18" lean-forward="true" selection-end-line="5" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -70,7 +80,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/04. while문/s2.py" />
         <option value="$PROJECT_DIR$/04. while문/s3.py" />
         <option value="$PROJECT_DIR$/05. 1차원 배열/s1.py" />
         <option value="$PROJECT_DIR$/05. 1차원 배열/s2.py" />
@@ -121,6 +130,7 @@
         <option value="$PROJECT_DIR$/클래스별로 풀기/claas 2/2798_블랙잭.py" />
         <option value="$PROJECT_DIR$/클래스별로 풀기/claas 2/15829_Hashing.py" />
         <option value="$PROJECT_DIR$/클래스별로 풀기/claas 2/1259_팰린드롬수.py" />
+        <option value="$PROJECT_DIR$/클래스별로 풀기/claas 2/11050_이항 계수 1.py" />
       </list>
     </option>
   </component>
@@ -195,8 +205,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.1259_팰린드롬수">
-    <configuration name="1018_체스판 다시 칠하기" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.11050_이항 계수 1">
+    <configuration name="11050_이항 계수 1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="BAEKJOON" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -208,7 +218,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/클래스별로 풀기/claas 2/1018_체스판 다시 칠하기.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/클래스별로 풀기/claas 2/11050_이항 계수 1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -303,11 +313,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.11050_이항 계수 1" />
         <item itemvalue="Python.1259_팰린드롬수" />
         <item itemvalue="Python.15829_Hashing" />
         <item itemvalue="Python.2798_블랙잭" />
         <item itemvalue="Python.2231_분해합" />
-        <item itemvalue="Python.1018_체스판 다시 칠하기" />
       </list>
     </recent_temporary>
   </component>
@@ -367,7 +377,6 @@
     </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/05. 1차원 배열/s1.py" />
     <entry file="file://$PROJECT_DIR$/05. 1차원 배열/s2.py" />
     <entry file="file://$PROJECT_DIR$/05. 1차원 배열/s3.py" />
     <entry file="file://$PROJECT_DIR$/05. 1차원 배열/s4.py" />
@@ -443,8 +452,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/클래스별로 풀기/claas 2/1259_팰린드롬수.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="10" column="20" lean-forward="true" selection-end-line="10" selection-end-column="20" />
+        <state>
+          <caret selection-end-line="10" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/클래스별로 풀기/claas 2/11050_이항 계수 1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="5" column="18" lean-forward="true" selection-end-line="5" selection-end-column="18" />
         </state>
       </provider>
     </entry>
