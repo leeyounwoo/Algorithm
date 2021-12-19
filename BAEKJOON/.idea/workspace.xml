@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="44cccb13-970e-41f7-8e4e-b6f1d04e59c6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/클래스별로 풀기/claas 2/1181_단어 정렬.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/클래스별로 풀기/claas 2/2609_최대공약수와 최소공배수.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,11 +12,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/클래스별로 풀기/claas 2/1181_단어 정렬.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+            <state relative-caret-position="165">
+              <caret line="5" column="13" lean-forward="true" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/클래스별로 풀기/claas 2/2609_최대공약수와 최소공배수.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="560">
+              <caret line="29" column="11" lean-forward="true" selection-end-line="44" />
             </state>
           </provider>
         </entry>
@@ -35,7 +43,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/05. 1차원 배열/s1.py" />
         <option value="$PROJECT_DIR$/05. 1차원 배열/s2.py" />
         <option value="$PROJECT_DIR$/05. 1차원 배열/s3.py" />
         <option value="$PROJECT_DIR$/05. 1차원 배열/s4.py" />
@@ -86,12 +93,13 @@
         <option value="$PROJECT_DIR$/클래스별로 풀기/claas 2/11050_이항 계수 1.py" />
         <option value="$PROJECT_DIR$/클래스별로 풀기/claas 2/1018_체스판 다시 칠하기.py" />
         <option value="$PROJECT_DIR$/클래스별로 풀기/claas 2/1181_단어 정렬.py" />
+        <option value="$PROJECT_DIR$/클래스별로 풀기/claas 2/2609_최대공약수와 최소공배수.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="1332" />
-    <option name="y" value="86" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="623" />
+    <option name="y" value="126" />
     <option name="width" value="1145" />
     <option name="height" value="1393" />
   </component>
@@ -101,17 +109,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope">
-        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
-          <expand>
-            <path>
-              <item name="BAEKJOON" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -129,6 +126,17 @@
               <item name="BAEKJOON" type="462c0819:PsiDirectoryNode" />
               <item name="클래스별로 풀기" type="462c0819:PsiDirectoryNode" />
               <item name="claas 2" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="BAEKJOON" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
             </path>
           </expand>
           <select />
@@ -160,7 +168,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.1181_단어 정렬">
+  <component name="RunManager" selected="Python.2609_최대공약수와 최소공배수">
     <configuration name="1018_체스판 다시 칠하기" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="BAEKJOON" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -245,7 +253,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="15829_Hashing" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="2609_최대공약수와 최소공배수" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="BAEKJOON" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -257,7 +265,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/클래스별로 풀기/claas 2/15829_Hashing.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/클래스별로 풀기/claas 2/2609_최대공약수와 최소공배수.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -268,11 +276,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.2609_최대공약수와 최소공배수" />
         <item itemvalue="Python.1181_단어 정렬" />
         <item itemvalue="Python.1018_체스판 다시 칠하기" />
         <item itemvalue="Python.11050_이항 계수 1" />
         <item itemvalue="Python.1259_팰린드롬수" />
-        <item itemvalue="Python.15829_Hashing" />
       </list>
     </recent_temporary>
   </component>
@@ -332,7 +340,6 @@
     </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/05. 1차원 배열/s3.py" />
     <entry file="file://$PROJECT_DIR$/05. 1차원 배열/s4.py" />
     <entry file="file://$PROJECT_DIR$/05. 1차원 배열/s5.py" />
     <entry file="file://$PROJECT_DIR$/05. 1차원 배열/s6.py" />
@@ -420,8 +427,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/클래스별로 풀기/claas 2/1181_단어 정렬.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        <state relative-caret-position="165">
+          <caret line="5" column="13" lean-forward="true" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/클래스별로 풀기/claas 2/2609_최대공약수와 최소공배수.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="29" column="11" lean-forward="true" selection-end-line="44" />
         </state>
       </provider>
     </entry>
