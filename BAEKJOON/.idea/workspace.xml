@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="44cccb13-970e-41f7-8e4e-b6f1d04e59c6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/클래스별로 풀기/claas 2/9012_괄호.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/클래스별로 풀기/claas 2/10773_제로.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,15 +16,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/클래스별로 풀기/claas 2/10814_나이순 정렬.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/클래스별로 풀기/claas 2/7568_덩치.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -96,11 +88,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/클래스별로 풀기/claas 2/9012_괄호.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="528">
-              <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+              <caret line="16" column="24" lean-forward="true" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/클래스별로 풀기/claas 2/10773_제로.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="8" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -118,7 +119,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/07. 문자열/s3.py" />
         <option value="$PROJECT_DIR$/07. 문자열/s4.py" />
         <option value="$PROJECT_DIR$/07. 문자열/s5.py" />
         <option value="$PROJECT_DIR$/07. 문자열/s6.py" />
@@ -169,6 +169,7 @@
         <option value="$PROJECT_DIR$/클래스별로 풀기/claas 2/2164_카드2.py" />
         <option value="$PROJECT_DIR$/클래스별로 풀기/claas 2/4949_균형잡힌 세상.py" />
         <option value="$PROJECT_DIR$/클래스별로 풀기/claas 2/9012_괄호.py" />
+        <option value="$PROJECT_DIR$/클래스별로 풀기/claas 2/10773_제로.py" />
       </list>
     </option>
   </component>
@@ -415,7 +416,6 @@
     </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/07. 문자열/s5.py" />
     <entry file="file://$PROJECT_DIR$/07. 문자열/s6.py" />
     <entry file="file://$PROJECT_DIR$/07. 문자열/s7.py" />
     <entry file="file://$PROJECT_DIR$/07. 문자열/s8.py" />
@@ -576,7 +576,14 @@
     <entry file="file://$PROJECT_DIR$/클래스별로 풀기/claas 2/9012_괄호.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="528">
-          <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+          <caret line="16" column="24" lean-forward="true" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/클래스별로 풀기/claas 2/10773_제로.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="8" selection-end-column="18" />
         </state>
       </provider>
     </entry>
