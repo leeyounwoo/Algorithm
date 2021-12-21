@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="44cccb13-970e-41f7-8e4e-b6f1d04e59c6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/클래스별로 풀기/claas 2/10842_큐.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/클래스별로 풀기/claas 2/10866_덱.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -36,8 +37,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/클래스별로 풀기/claas 2/10842_큐.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="649">
-              <caret line="29" column="20" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
+            <state relative-caret-position="517">
+              <caret line="30" column="21" lean-forward="true" selection-end-line="30" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/클래스별로 풀기/claas 2/10866_덱.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1353">
+              <caret line="41" selection-start-line="41" selection-end-line="41" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -45,8 +58,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/클래스별로 풀기/claas 2/input.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="14" column="3" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+            <state relative-caret-position="495">
+              <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -73,7 +86,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/07. 문자열/s9.py" />
         <option value="$PROJECT_DIR$/07. 문자열/s10.py" />
         <option value="$PROJECT_DIR$/08. 기본 수학 1/s1.py" />
         <option value="$PROJECT_DIR$/08. 기본 수학 1/s2.py" />
@@ -121,13 +133,14 @@
         <option value="$PROJECT_DIR$/클래스별로 풀기/claas 2/10773_제로.py" />
         <option value="$PROJECT_DIR$/클래스별로 풀기/claas 2/10816_숫자 카드 2_2.py" />
         <option value="$PROJECT_DIR$/클래스별로 풀기/claas 2/10816_숫자 카드 2.py" />
-        <option value="$PROJECT_DIR$/클래스별로 풀기/claas 2/input.txt" />
         <option value="$PROJECT_DIR$/클래스별로 풀기/claas 2/10828_스택.py" />
+        <option value="$PROJECT_DIR$/클래스별로 풀기/claas 2/input.txt" />
         <option value="$PROJECT_DIR$/클래스별로 풀기/claas 2/10842_큐.py" />
+        <option value="$PROJECT_DIR$/클래스별로 풀기/claas 2/10866_덱.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="1403" />
     <option name="y" value="62" />
     <option name="width" value="1145" />
@@ -198,7 +211,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.10842_큐">
+  <component name="RunManager" selected="Python.10866_덱">
     <configuration name="10816_숫자 카드 2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="BAEKJOON" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -283,7 +296,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1920_수 찾기" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="10866_덱" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="BAEKJOON" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -295,7 +308,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/클래스별로 풀기/claas 2/1920_수 찾기.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/클래스별로 풀기/claas 2/10866_덱.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -306,11 +319,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.10866_덱" />
         <item itemvalue="Python.10842_큐" />
         <item itemvalue="Python.10828_스택" />
         <item itemvalue="Python.10816_숫자 카드 2_2" />
         <item itemvalue="Python.10816_숫자 카드 2" />
-        <item itemvalue="Python.1920_수 찾기" />
       </list>
     </recent_temporary>
   </component>
@@ -331,25 +344,6 @@
     <frame x="1403" y="62" width="1145" height="1372" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.23125565" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.38206786" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" order="10" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
-    <layout-to-restore>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23125565" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -367,10 +361,9 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout-to-restore>
+    </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/08. 기본 수학 1/s2.py" />
     <entry file="file://$PROJECT_DIR$/08. 기본 수학 1/s3.py" />
     <entry file="file://$PROJECT_DIR$/08. 기본 수학 1/s4.py" />
     <entry file="file://$PROJECT_DIR$/08. 기본 수학 1/s11.py" />
@@ -565,15 +558,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/클래스별로 풀기/claas 2/10842_큐.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="649">
-          <caret line="29" column="20" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
+        <state relative-caret-position="517">
+          <caret line="30" column="21" lean-forward="true" selection-end-line="30" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/클래스별로 풀기/claas 2/10866_덱.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1353">
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/클래스별로 풀기/claas 2/input.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="14" column="3" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+        <state relative-caret-position="495">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
         </state>
       </provider>
     </entry>
