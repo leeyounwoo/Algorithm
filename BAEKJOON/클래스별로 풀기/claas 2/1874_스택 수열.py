@@ -2,38 +2,26 @@ import sys
 
 sys.stdin = open('input.txt')
 n = int(input())
-numbers = [i+1 for i in range(n)]
-# print(numbers)
-want = [int(sys.stdin.readline()) for _ in range(n)]
-# print(want)
-
-break_flag = False
-temp = []
 ans = []
-for i in range(len(want)):
-    # print(want[i])
-    # print(temp)
-    if want and want[i] in temp:
-        if temp[-1] == want[i]:
-            temp.pop()
-            ans.append('-')
+numbers = []
+push_max = 0
+for i in range(n):
+    temp = int(input())
+    if temp > push_max:
+        ans += ['+'] * (temp - push_max)
+        ans += ['-']
+        for j in range(push_max+1, temp):
+            numbers.append(j)
+        push_max = temp
+    else:
+        if numbers and numbers[-1] == temp:
+            ans += ['-']
+            numbers.pop()
         else:
             ans = "NO"
-            break_flag = True
             break
-    else:
-
-        while numbers[0] <= want[i]:
-            temp.append(numbers.pop(0))
-            ans.append('+')
-            if not numbers:
-                break
-        ans.append('-')
-        temp.pop()
-if break_flag:
+if ans == 'NO':
     print(ans)
 else:
-    for i in range(len(ans)):
-        print(ans[i])
-
-
+    for i in ans:
+        print(i)
