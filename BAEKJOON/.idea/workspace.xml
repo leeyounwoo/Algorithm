@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="44cccb13-970e-41f7-8e4e-b6f1d04e59c6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/클래스별로 풀기/class 3/1003_피보나치 함수.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/클래스별로 풀기/class 3/1463_1로 만들기.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/클래스별로 풀기/class 3/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/클래스별로 풀기/class 3/input.txt" afterDir="false" />
     </list>
@@ -20,17 +20,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/클래스별로 풀기/class 3/input.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+            <state>
+              <caret column="2" selection-start-column="2" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/클래스별로 풀기/class 3/1003_피보나치 함수.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="462">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/클래스별로 풀기/class 3/1003_피보나치 함수.py">
+        <entry file="file://$PROJECT_DIR$/클래스별로 풀기/class 3/1463_1로 만들기.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="12" column="16" selection-end-line="14" />
+            <state relative-caret-position="594">
+              <caret line="18" column="10" lean-forward="true" selection-end-line="18" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -68,7 +77,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/10. 재귀/s2.py" />
         <option value="$PROJECT_DIR$/10. 재귀/s3.py" />
         <option value="$PROJECT_DIR$/10. 재귀/s4.py" />
         <option value="$PROJECT_DIR$/클래스별로 풀기/claas 2/2231_분해합.py" />
@@ -117,14 +125,15 @@
         <option value="$PROJECT_DIR$/클래스별로 풀기/class 3/17219_비밀번호 찾기.py" />
         <option value="$PROJECT_DIR$/클래스별로 풀기/class 3/a.html" />
         <option value="$PROJECT_DIR$/클래스별로 풀기/class 3/17626_Four Squares.py" />
-        <option value="$PROJECT_DIR$/클래스별로 풀기/class 3/input.txt" />
         <option value="$PROJECT_DIR$/클래스별로 풀기/class 3/1003_피보나치 함수.py" />
+        <option value="$PROJECT_DIR$/클래스별로 풀기/class 3/input.txt" />
+        <option value="$PROJECT_DIR$/클래스별로 풀기/class 3/1463_1로 만들기.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1098" />
-    <option name="y" value="63" />
+    <option name="x" value="1384" />
+    <option name="y" value="72" />
     <option name="width" value="1143" />
     <option name="height" value="1372" />
   </component>
@@ -174,13 +183,13 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\LeeYounWoo\Desktop\Algorithm\BAEKJOON\클래스별로 풀기\class 3" />
-      <recent name="C:\Users\LeeYounWoo\Desktop\Algorithm\BAEKJOON" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\LeeYounWoo\Desktop\Algorithm\BAEKJOON\클래스별로 풀기\class 3" />
       <recent name="C:\Users\LeeYounWoo\Desktop\Algorithm\BAEKJOON\10. 재귀" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\LeeYounWoo\Desktop\Algorithm\BAEKJOON\클래스별로 풀기\class 3" />
+      <recent name="C:\Users\LeeYounWoo\Desktop\Algorithm\BAEKJOON" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -195,7 +204,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.1003_피보나치 함수">
+  <component name="RunManager" selected="Python.1463_1로 만들기">
     <configuration name="1003_피보나치 함수" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="BAEKJOON" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -217,7 +226,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1676_팩터리얼 0의 개수" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="1463_1로 만들기" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="BAEKJOON" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -229,7 +238,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/클래스별로 풀기/class 3/1676_팩터리얼 0의 개수.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/클래스별로 풀기/class 3/1463_1로 만들기.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -303,11 +312,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.1463_1로 만들기" />
         <item itemvalue="Python.1003_피보나치 함수" />
         <item itemvalue="Python.17626_Four Squares" />
         <item itemvalue="Python.17219_비밀번호 찾기" />
         <item itemvalue="Python.1764_듣보잡" />
-        <item itemvalue="Python.1676_팩터리얼 0의 개수" />
       </list>
     </recent_temporary>
   </component>
@@ -325,7 +334,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1295" y="51" width="1143" height="1372" extended-state="0" />
+    <frame x="1384" y="72" width="1143" height="1372" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23167421" />
@@ -348,7 +357,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/10. 재귀/s4.py" />
     <entry file="file://$PROJECT_DIR$/09. 기본 수학 2/s8.py" />
     <entry file="file://$PROJECT_DIR$/클래스별로 풀기/claas 2/1018_체스판 다시 칠하기.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -655,17 +663,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/클래스별로 풀기/class 3/input.txt">
+    <entry file="file://$PROJECT_DIR$/클래스별로 풀기/class 3/1003_피보나치 함수.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+        <state relative-caret-position="462">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/클래스별로 풀기/class 3/1003_피보나치 함수.py">
+    <entry file="file://$PROJECT_DIR$/클래스별로 풀기/class 3/input.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="12" column="16" selection-end-line="14" />
+        <state>
+          <caret column="2" selection-start-column="2" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/클래스별로 풀기/class 3/1463_1로 만들기.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="18" column="10" lean-forward="true" selection-end-line="18" selection-end-column="10" />
         </state>
       </provider>
     </entry>
