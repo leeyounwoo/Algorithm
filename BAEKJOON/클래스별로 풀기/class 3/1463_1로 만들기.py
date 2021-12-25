@@ -14,7 +14,7 @@ def bfs(n, cnt):
         if n % 2 == 0:
             bfs(n//2, cnt+1)
         bfs(n-1, cnt+1)
-        
+
 sys.stdin = open('input.txt')
 n = int(input())
 ans = n
