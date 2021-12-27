@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="44cccb13-970e-41f7-8e4e-b6f1d04e59c6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/클래스별로 풀기/class 3/9375_패션왕 신해빈.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/클래스별로 풀기/class 3/9461_파도반 수열.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/클래스별로 풀기/class 3/11659_구간 합 구하기4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/클래스별로 풀기/class 3/00.py" beforeDir="false" afterPath="$PROJECT_DIR$/클래스별로 풀기/class 3/00.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/클래스별로 풀기/class 3/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/클래스별로 풀기/class 3/input.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,11 +18,38 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/클래스별로 풀기/class 3/9461_파도반 수열.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/클래스별로 풀기/class 3/input.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="132">
-              <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+              <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/클래스별로 풀기/class 3/9461_파도반 수열.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/클래스별로 풀기/class 3/11659_구간 합 구하기4.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/클래스별로 풀기/class 3/00.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="363">
+              <caret line="11" column="8" lean-forward="true" selection-end-line="15" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -42,7 +69,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/클래스별로 풀기/claas 2/11050_이항 계수 1.py" />
         <option value="$PROJECT_DIR$/클래스별로 풀기/claas 2/1018_체스판 다시 칠하기.py" />
         <option value="$PROJECT_DIR$/클래스별로 풀기/claas 2/1181_단어 정렬.py" />
         <option value="$PROJECT_DIR$/클래스별로 풀기/claas 2/2609_최대공약수와 최소공배수.py" />
@@ -79,7 +105,6 @@
         <option value="$PROJECT_DIR$/클래스별로 풀기/class 3/11723_집합.py" />
         <option value="$PROJECT_DIR$/클래스별로 풀기/class 3/1620_나는야 포켓몬 마스터 이다솜.py" />
         <option value="$PROJECT_DIR$/클래스별로 풀기/class 3/1676_팩터리얼 0의 개수.py" />
-        <option value="$PROJECT_DIR$/클래스별로 풀기/class 3/00.py" />
         <option value="$PROJECT_DIR$/클래스별로 풀기/class 3/1764_듣보잡.py" />
         <option value="$PROJECT_DIR$/클래스별로 풀기/class 3/17219_비밀번호 찾기.py" />
         <option value="$PROJECT_DIR$/클래스별로 풀기/class 3/a.html" />
@@ -90,9 +115,11 @@
         <option value="$PROJECT_DIR$/클래스별로 풀기/class 3/2606_바이러스.py" />
         <option value="$PROJECT_DIR$/클래스별로 풀기/class 3/2630_색종이 만들기.py" />
         <option value="$PROJECT_DIR$/클래스별로 풀기/class 3/s1.py" />
-        <option value="$PROJECT_DIR$/클래스별로 풀기/class 3/input.txt" />
         <option value="$PROJECT_DIR$/클래스별로 풀기/class 3/9375_패션왕 신해빈.py" />
         <option value="$PROJECT_DIR$/클래스별로 풀기/class 3/9461_파도반 수열.py" />
+        <option value="$PROJECT_DIR$/클래스별로 풀기/class 3/input.txt" />
+        <option value="$PROJECT_DIR$/클래스별로 풀기/class 3/11659_구간 합 구하기4.py" />
+        <option value="$PROJECT_DIR$/클래스별로 풀기/class 3/00.py" />
       </list>
     </option>
   </component>
@@ -148,13 +175,13 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\LeeYounWoo\Desktop\Algorithm\BAEKJOON\클래스별로 풀기\class 3" />
-      <recent name="C:\Users\LeeYounWoo\Desktop\Algorithm\BAEKJOON\10. 재귀" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\LeeYounWoo\Desktop\Algorithm\BAEKJOON\클래스별로 풀기\class 3" />
       <recent name="C:\Users\LeeYounWoo\Desktop\Algorithm\BAEKJOON" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\LeeYounWoo\Desktop\Algorithm\BAEKJOON\클래스별로 풀기\class 3" />
+      <recent name="C:\Users\LeeYounWoo\Desktop\Algorithm\BAEKJOON\10. 재귀" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -169,8 +196,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.9461_파도반 수열">
-    <configuration name="2606_바이러스" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.11659_구간 합 구하기4">
+    <configuration name="00" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="BAEKJOON" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -182,7 +209,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/클래스별로 풀기/class 3/2606_바이러스.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/클래스별로 풀기/class 3/00.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -191,7 +218,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2630_색종이 만들기" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="11659_구간 합 구하기4" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="BAEKJOON" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -203,7 +230,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/클래스별로 풀기/class 3/2630_색종이 만들기.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/클래스별로 풀기/class 3/11659_구간 합 구하기4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -277,11 +304,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.11659_구간 합 구하기4" />
+        <item itemvalue="Python.00" />
         <item itemvalue="Python.9461_파도반 수열" />
         <item itemvalue="Python.9375_패션왕 신해빈" />
         <item itemvalue="Python.s1" />
-        <item itemvalue="Python.2630_색종이 만들기" />
-        <item itemvalue="Python.2606_바이러스" />
       </list>
     </recent_temporary>
   </component>
@@ -302,6 +329,25 @@
     <frame x="1372" y="144" width="1143" height="1372" extended-state="0" />
     <editor active="true" />
     <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23167421" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.38206786" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23167421" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -319,16 +365,9 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
+    </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/클래스별로 풀기/claas 2/11650_좌표 정렬하기.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/클래스별로 풀기/claas 2/11651_좌표 정렬하기 2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="297">
@@ -579,13 +618,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/클래스별로 풀기/class 3/00.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/클래스별로 풀기/class 3/1003_피보나치 함수.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="462">
@@ -641,17 +673,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/클래스별로 풀기/class 3/input.txt">
+    <entry file="file://$PROJECT_DIR$/클래스별로 풀기/class 3/9461_파도반 수열.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+        <state relative-caret-position="264">
+          <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/클래스별로 풀기/class 3/9461_파도반 수열.py">
+    <entry file="file://$PROJECT_DIR$/클래스별로 풀기/class 3/input.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
-          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+          <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/클래스별로 풀기/class 3/11659_구간 합 구하기4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/클래스별로 풀기/class 3/00.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="11" column="8" lean-forward="true" selection-end-line="15" selection-end-column="22" />
         </state>
       </provider>
     </entry>
