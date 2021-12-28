@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="44cccb13-970e-41f7-8e4e-b6f1d04e59c6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/클래스별로 풀기/class 3/1012_유기농 배추.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/클래스별로 풀기/class 3/1260_DFS와 BFS.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/클래스별로 풀기/class 3/00.py" beforeDir="false" afterPath="$PROJECT_DIR$/클래스별로 풀기/class 3/00.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/클래스별로 풀기/class 3/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/클래스별로 풀기/class 3/input.txt" afterDir="false" />
@@ -21,8 +21,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/클래스별로 풀기/class 3/input.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="33">
-              <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+            <state relative-caret-position="165">
+              <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -36,20 +36,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/클래스별로 풀기/class 3/00.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="627">
-              <caret line="22" column="24" lean-forward="true" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+            <state relative-caret-position="99">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/클래스별로 풀기/class 3/1012_유기농 배추.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/클래스별로 풀기/class 3/1260_DFS와 BFS.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="495">
-              <caret line="21" column="26" lean-forward="true" selection-end-line="30" selection-end-column="14" />
+              <caret line="24" column="14" lean-forward="true" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
@@ -72,7 +72,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/클래스별로 풀기/claas 2/2609_최대공약수와 최소공배수.py" />
         <option value="$PROJECT_DIR$/클래스별로 풀기/claas 2/2751_수 정렬하기 2.py" />
         <option value="$PROJECT_DIR$/클래스별로 풀기/claas 2/10814_나이순 정렬.py" />
         <option value="$PROJECT_DIR$/클래스별로 풀기/claas 2/7568_덩치.py" />
@@ -121,14 +120,15 @@
         <option value="$PROJECT_DIR$/클래스별로 풀기/class 3/11659_구간 합 구하기4.py" />
         <option value="$PROJECT_DIR$/클래스별로 풀기/class 3/11399_ATM.py" />
         <option value="$PROJECT_DIR$/클래스별로 풀기/class 3/1012_유기농 배추.py" />
-        <option value="$PROJECT_DIR$/클래스별로 풀기/class 3/input.txt" />
         <option value="$PROJECT_DIR$/클래스별로 풀기/class 3/00.py" />
+        <option value="$PROJECT_DIR$/클래스별로 풀기/class 3/input.txt" />
+        <option value="$PROJECT_DIR$/클래스별로 풀기/class 3/1260_DFS와 BFS.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1372" />
-    <option name="y" value="144" />
+    <option name="x" value="337" />
+    <option name="y" value="102" />
     <option name="width" value="1143" />
     <option name="height" value="1372" />
   </component>
@@ -199,7 +199,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.1012_유기농 배추">
+  <component name="RunManager" selected="Python.1260_DFS와 BFS">
     <configuration name="00" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="BAEKJOON" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -284,7 +284,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="9461_파도반 수열" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="1260_DFS와 BFS" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="BAEKJOON" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -296,7 +296,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/클래스별로 풀기/class 3/9461_파도반 수열.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/클래스별로 풀기/class 3/1260_DFS와 BFS.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -307,11 +307,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.1260_DFS와 BFS" />
         <item itemvalue="Python.1012_유기농 배추" />
         <item itemvalue="Python.00" />
         <item itemvalue="Python.11399_ATM" />
         <item itemvalue="Python.11659_구간 합 구하기4" />
-        <item itemvalue="Python.9461_파도반 수열" />
       </list>
     </recent_temporary>
   </component>
@@ -329,7 +329,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1372" y="144" width="1143" height="1372" extended-state="0" />
+    <frame x="337" y="102" width="1143" height="1372" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23167421" />
@@ -371,13 +371,6 @@
     </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/클래스별로 풀기/claas 2/10814_나이순 정렬.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/클래스별로 풀기/claas 2/9012_괄호.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="528">
@@ -676,16 +669,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/클래스별로 풀기/class 3/1012_유기농 배추.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="21" column="26" lean-forward="true" selection-end-line="30" selection-end-column="14" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/클래스별로 풀기/class 3/9461_파도반 수열.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
@@ -693,17 +676,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/클래스별로 풀기/class 3/input.txt">
+    <entry file="file://$PROJECT_DIR$/클래스별로 풀기/class 3/1012_유기농 배추.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="33">
-          <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+        <state relative-caret-position="858">
+          <caret line="26" column="7" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/클래스별로 풀기/class 3/00.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="627">
-          <caret line="22" column="24" lean-forward="true" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+        <state relative-caret-position="99">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/클래스별로 풀기/class 3/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/클래스별로 풀기/class 3/1260_DFS와 BFS.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="24" column="14" lean-forward="true" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
