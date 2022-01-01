@@ -52,6 +52,6 @@ def solution(stones, k):
 
 
 
-print(solution([1, 3, 2], 3))
+print(solution([0, 2, 3], 3))
 print(solution([4, 2, 2, 1, 4], 1))
 print(solution([5, 7, 2, 4, 9], 20))
