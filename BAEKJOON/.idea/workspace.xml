@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="44cccb13-970e-41f7-8e4e-b6f1d04e59c6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/클래스별로 풀기/class 3/11279_최대 힙_queue.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/클래스별로 풀기/class 3/1389_케민 베이컨의 6단계 법칙.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/이베이/s2.py" beforeDir="false" afterPath="$PROJECT_DIR$/이베이/s2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/클래스별로 풀기/class 3/11279_최대 힙_queue.py" beforeDir="false" afterPath="$PROJECT_DIR$/클래스별로 풀기/class 3/11279_최대 힙_queue.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/클래스별로 풀기/class 3/2579_계단 오르기.py" beforeDir="false" afterPath="$PROJECT_DIR$/클래스별로 풀기/class 3/2579_계단 오르기.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/클래스별로 풀기/class 3/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/클래스별로 풀기/class 3/input.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,32 +21,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/클래스별로 풀기/class 3/input.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="3" lean-forward="true" selection-start-column="3" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/클래스별로 풀기/class 3/1389_케민 베이컨의 6단계 법칙.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
-              <folding>
-                <element signature="e#0#10#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="66">
+              <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/클래스별로 풀기/class 3/1260_DFS와 BFS.py">
+        <entry file="file://$PROJECT_DIR$/클래스별로 풀기/class 3/2579_계단 오르기.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="12" column="18" lean-forward="true" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
-              <folding>
-                <element signature="e#0#10#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="594">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
             </state>
           </provider>
         </entry>
@@ -92,7 +76,6 @@
         <option value="$PROJECT_DIR$/클래스별로 풀기/class 3/17626_Four Squares.py" />
         <option value="$PROJECT_DIR$/클래스별로 풀기/class 3/1003_피보나치 함수.py" />
         <option value="$PROJECT_DIR$/클래스별로 풀기/class 3/1463_1로 만들기.py" />
-        <option value="$PROJECT_DIR$/클래스별로 풀기/class 3/2579_계단 오르기.py" />
         <option value="$PROJECT_DIR$/클래스별로 풀기/class 3/2606_바이러스.py" />
         <option value="$PROJECT_DIR$/클래스별로 풀기/class 3/2630_색종이 만들기.py" />
         <option value="$PROJECT_DIR$/클래스별로 풀기/class 3/s1.py" />
@@ -115,15 +98,16 @@
         <option value="$PROJECT_DIR$/클래스별로 풀기/class 3/11279_최대 힙.py" />
         <option value="$PROJECT_DIR$/클래스별로 풀기/class 3/1927_최소 힙.py" />
         <option value="$PROJECT_DIR$/이베이/s2.py" />
+        <option value="$PROJECT_DIR$/클래스별로 풀기/class 3/1389_케민 베이컨의 6단계 법칙.py" />
         <option value="$PROJECT_DIR$/클래스별로 풀기/class 3/11279_최대 힙_queue.py" />
         <option value="$PROJECT_DIR$/클래스별로 풀기/class 3/input.txt" />
-        <option value="$PROJECT_DIR$/클래스별로 풀기/class 3/1389_케민 베이컨의 6단계 법칙.py" />
+        <option value="$PROJECT_DIR$/클래스별로 풀기/class 3/2579_계단 오르기.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="315" />
-    <option name="y" value="101" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="791" />
+    <option name="y" value="75" />
     <option name="width" value="1676" />
     <option name="height" value="1372" />
   </component>
@@ -200,7 +184,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.1389_케민 베이컨의 6단계 법칙">
+  <component name="RunManager" selected="Python.2579_계단 오르기">
     <configuration name="11279_최대 힙_queue" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="BAEKJOON" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -243,7 +227,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1927_최소 힙" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="2579_계단 오르기" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="BAEKJOON" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -255,7 +239,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/클래스별로 풀기/class 3/1927_최소 힙.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/클래스별로 풀기/class 3/2579_계단 오르기.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -308,11 +292,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.2579_계단 오르기" />
         <item itemvalue="Python.1389_케민 베이컨의 6단계 법칙" />
         <item itemvalue="Python.11279_최대 힙_queue" />
         <item itemvalue="Python.s5" />
         <item itemvalue="Python.s1" />
-        <item itemvalue="Python.1927_최소 힙" />
       </list>
     </recent_temporary>
   </component>
@@ -330,15 +314,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="315" y="101" width="1676" height="1372" extended-state="0" />
+    <frame x="791" y="75" width="1676" height="1372" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24175824" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.24175824" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.44426495" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.44426495" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -352,12 +336,12 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15628816" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24175824" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.38206786" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.44426495" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -506,13 +490,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/클래스별로 풀기/class 3/2579_계단 오르기.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/클래스별로 풀기/class 3/2606_바이러스.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="418">
@@ -644,16 +621,6 @@
     <entry file="file://$PROJECT_DIR$/네이버 인턴/input.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/클래스별로 풀기/class 3/11279_최대 힙_queue.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="12" column="32" lean-forward="true" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/네이버 인턴/s1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="66">
@@ -682,10 +649,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/클래스별로 풀기/class 3/input.txt">
+    <entry file="file://$PROJECT_DIR$/클래스별로 풀기/class 3/11279_최대 힙_queue.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="3" lean-forward="true" selection-start-column="3" selection-end-column="3" />
+        <state relative-caret-position="528">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/클래스별로 풀기/class 3/1260_DFS와 BFS.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -699,13 +679,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/클래스별로 풀기/class 3/1260_DFS와 BFS.py">
+    <entry file="file://$PROJECT_DIR$/클래스별로 풀기/class 3/input.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="12" column="18" lean-forward="true" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="66">
+          <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/클래스별로 풀기/class 3/2579_계단 오르기.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>
