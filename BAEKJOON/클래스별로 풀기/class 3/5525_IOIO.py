@@ -1,34 +1,24 @@
 import sys
-
-
-def BruteForce(t, p):
-    n, m = len(t), len(p)
-    i, j = 0, 0
-    while i < n and j < m:
-        if t[i] != p[j]:
-            i = i - j
-            j = -1
-        i += 1
-        j += 1
-    if j == m:
-        return i-m
-    else:
-        return -1
-
-
 sys.stdin = open('input.txt')
-n = int(input())
-n *= 2
-n += 1
-m = int(input())
-words = input()
+input = sys.stdin.readline
 
-pattern = ''
-for i in range(n):
-    if i % 2:
-        pattern += 'O'
+N = int(input().rstrip())
+M = int(input().rstrip())
+S = input().rstrip()
+
+answer = 0
+count = 0
+i = 1
+
+while i < M - 1:
+    if S[i-1] == 'I' and S[i] == 'O' and S[i+1] == 'I':
+        count += 1
+        if count == N:
+            count -= 1
+            answer += 1
+        i += 1
     else:
-        pattern += 'I'
+        count = 0
+    i += 1
 
-print(pattern, words)
-print(BruteForce(words, pattern))
+print(answer)

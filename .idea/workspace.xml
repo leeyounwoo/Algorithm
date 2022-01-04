@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bae6a119-c790-49df-8b2e-2fc440797f08" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 3/11286_절대값 힙.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 3/6064_카잉 달력.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/코딩 테스트/00.코딩테스트 참고 코드/문자열매칭_KMP.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 3/5525_IOIO.py" beforeDir="false" afterPath="$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 3/5525_IOIO.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 3/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 3/input.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,11 +15,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 3/11286_절대값 힙.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="506">
-              <caret line="60" column="11" lean-forward="true" selection-start-line="60" selection-start-column="11" selection-end-line="60" selection-end-column="11" />
+            <state relative-caret-position="828">
+              <caret line="53" column="37" lean-forward="true" selection-start-line="53" selection-start-column="37" selection-end-line="53" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 3/5525_IOIO.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="528">
+              <caret line="16" column="22" lean-forward="true" selection-end-line="23" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -27,8 +36,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 3/input.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="594">
-              <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+            <state relative-caret-position="66">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -59,17 +68,18 @@
       <list>
         <option value="$PROJECT_DIR$/코딩 테스트1/00.코딩테스트 참고 코드/1.py" />
         <option value="$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 3/00.py" />
-        <option value="$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 3/5525_IOIO.py" />
         <option value="$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 3/18870_좌표 압축.py" />
         <option value="$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 3/6064_카잉 달력.py" />
-        <option value="$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 3/input.txt" />
         <option value="$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 3/11286_절대값 힙.py" />
+        <option value="$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 3/input.txt" />
+        <option value="$PROJECT_DIR$/코딩 테스트/00.코딩테스트 참고 코드/문자열매칭_KMP.py" />
+        <option value="$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 3/5525_IOIO.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="1156" />
-    <option name="y" value="40" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="4" />
+    <option name="y" value="205" />
     <option name="width" value="1414" />
     <option name="height" value="1407" />
   </component>
@@ -78,6 +88,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -107,7 +118,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -132,7 +142,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.11286_절대값 힙">
+  <component name="RunManager" selected="Python.5525_IOIO">
     <configuration name="11286_절대값 힙" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -198,9 +208,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.5525_IOIO" />
         <item itemvalue="Python.11286_절대값 힙" />
         <item itemvalue="Python.18870_좌표 압축" />
-        <item itemvalue="Python.5525_IOIO" />
       </list>
     </recent_temporary>
   </component>
@@ -218,11 +228,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1156" y="40" width="1414" height="1407" extended-state="0" />
-    <editor active="true" />
+    <frame x="4" y="205" width="1414" height="1407" extended-state="0" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="1" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.25" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
@@ -230,7 +239,7 @@
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Find" order="4" />
       <window_info anchor="bottom" id="Version Control" order="5" />
-      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.3299293" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.3299293" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -289,24 +298,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 3/5525_IOIO.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="21" column="6" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/코딩 테스트/00.코딩테스트 참고 코드/문자열매칭_브루트포스1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="231">
           <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 3/1927_최소 힙.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="2" selection-start-line="2" selection-end-line="38" selection-end-column="37" />
         </state>
       </provider>
     </entry>
@@ -324,17 +319,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 3/input.txt">
+    <entry file="file://$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 3/11286_절대값 힙.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+        <state relative-caret-position="828">
+          <caret line="53" column="37" lean-forward="true" selection-start-line="53" selection-start-column="37" selection-end-line="53" selection-end-column="37" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 3/11286_절대값 힙.py">
+    <entry file="file://$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 3/1927_최소 힙.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="60" column="11" lean-forward="true" selection-start-line="60" selection-start-column="11" selection-end-line="60" selection-end-column="11" />
+        <state relative-caret-position="66">
+          <caret line="2" selection-start-line="2" selection-end-line="38" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 3/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/코딩 테스트/00.코딩테스트 참고 코드/문자열매칭_KMP.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="990">
+          <caret line="30" column="17" lean-forward="true" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 3/5525_IOIO.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="16" column="22" lean-forward="true" selection-end-line="23" selection-end-column="13" />
         </state>
       </provider>
     </entry>
