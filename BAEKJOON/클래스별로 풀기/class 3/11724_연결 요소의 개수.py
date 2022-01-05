@@ -10,7 +10,6 @@ def dfs(start):
 
 sys.stdin = open('input.txt')
 input = sys.stdin.readline
-sys.stdin = open('input.txt')
 n, m = map(int, input().rstrip().split())
 graph = [[] for _ in range(n+1)]
 
