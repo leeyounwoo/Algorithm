@@ -5,16 +5,14 @@ def input():
     return sys.stdin.readline().rstrip()
 
 
-def dfs(a, b):
+def find(a, b):
     graph[a] = graph[a].union(graph[b])
-    # print(graph[a])
     temp = list(graph[a])
     for i in range(len(temp)):
         if not check[temp[i]]:
             check[temp[i]] = True
-            dfs(a, temp[i])
-    #     print(i)
-    #     dfs(a, i)
+            find(a, temp[i])
+
 
 sys.stdin = open('input.txt')
 n = int(input())
@@ -26,16 +24,13 @@ for i in range(n):
         if temp[idx]:
             set_temp.add(idx)
     graph.append(set_temp)
-# print(graph)
 
 for i in range(len(graph)):
     temp = list(graph[i])
     check = [False] * n
     for j in range(len(temp)):
-        # if temp[j] not in graph[i]:
-        #     print('temp')
         check[temp[j]] = True
-        dfs(i, temp[j])
+        find(i, temp[j])
 
 ans = []
 for i in range(n):
@@ -48,7 +43,5 @@ for i in range(n):
             list_1.append('0')
     ans.append(list_1)
 
-# print(ans)
 for i in range(len(ans)):
-    # print()
     print(' '.join(ans[i]))
