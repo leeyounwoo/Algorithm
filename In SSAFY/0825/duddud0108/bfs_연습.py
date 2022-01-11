@@ -1,0 +1,29 @@
+'''
+7 8
+1 2 1 3 2 4 2 5 4 6 5 6 6 7 3 7
+'''
+
+def bfs(v):  # v: 출발노드
+    queue = []
+    visited = [0] * (V+1)
+    queue.append(v)
+
+    while queue:
+        new_v = queue.pop(0)
+
+        if not visited[new_v]:  # 방문한 적이 없다면
+            visited[new_v] = 1  # 방문 처리
+            print(new_v, end=" ")
+
+            for nb in range(1, V+1):
+                if G[new_v][nb] == 1 and visited[nb] == 0:
+                    queue.append(nb)
+
+V, E = map(int, input().split())
+temp = list(map(int, input().split()))
+G = [[0 for i in range(V+1)] for j in range(V+1)]
+for i in range(0, len(temp), 2):
+    G[temp[i]][temp[i+1]] = 1
+    G[temp[i+1]][temp[i]] = 1
+
+bfs(1)

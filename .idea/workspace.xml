@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bae6a119-c790-49df-8b2e-2fc440797f08" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 3/1992_쿼드트리.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 3/14500_테트로미노.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 3/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 3/input.txt" afterDir="false" />
     </list>
@@ -14,20 +14,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 3/input.txt">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 3/14500_테트로미노.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+            <state relative-caret-position="3173">
+              <caret line="101" column="10" lean-forward="true" selection-start-line="101" selection-start-column="10" selection-end-line="101" selection-end-column="10" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 3/1992_쿼드트리.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 3/input.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="660">
-              <caret line="47" column="22" lean-forward="true" selection-end-line="48" selection-end-column="10" />
+            <state>
+              <caret lean-forward="true" />
             </state>
           </provider>
         </entry>
@@ -40,6 +40,11 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>print</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -62,62 +67,53 @@
         <option value="$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 3/7569_토마토.py" />
         <option value="$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 3/00.py" />
         <option value="$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 3/6064_카잉 달력.py" />
-        <option value="$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 3/input.txt" />
         <option value="$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 3/1992_쿼드트리.py" />
+        <option value="$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 3/input.txt" />
+        <option value="$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 3/14500_테트로미노.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="1913" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="135" />
+    <option name="y" value="144" />
     <option name="width" value="1934" />
-    <option name="height" value="2127" />
+    <option name="height" value="1959" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="Algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="BAEKJOON" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="BAEKJOON" type="462c0819:PsiDirectoryNode" />
               <item name="클래스별로 풀기" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="BAEKJOON" type="462c0819:PsiDirectoryNode" />
               <item name="클래스별로 풀기" type="462c0819:PsiDirectoryNode" />
               <item name="class 3" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="코딩 테스트" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="코딩 테스트" type="462c0819:PsiDirectoryNode" />
-              <item name="00.코딩테스트 참고 코드" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -126,6 +122,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\LeeYounWoo\Desktop\algorithm\BAEKJOON\클래스별로 풀기\class 3" />
       <recent name="C:\Users\LeeYounWoo\Desktop\Algorithm\BAEKJOON\클래스별로 풀기\class 3" />
       <recent name="C:\Users\LeeYounWoo\Desktop\Algorithm\코딩 테스트1" />
     </key>
@@ -142,7 +139,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.1992_쿼드트리">
+  <component name="RunManager" selected="Python.14500_테트로미노">
+    <configuration name="14500_테트로미노" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 3/14500_테트로미노.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="1992_쿼드트리" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -227,34 +245,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="s1" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 3" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 3/s1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.14500_테트로미노" />
         <item itemvalue="Python.1992_쿼드트리" />
         <item itemvalue="Python.6064_카잉 달력" />
         <item itemvalue="Python.7569_토마토" />
         <item itemvalue="Python.7576_토마토" />
-        <item itemvalue="Python.s1" />
       </list>
     </recent_temporary>
   </component>
@@ -272,7 +269,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1913" y="0" width="1934" height="2127" extended-state="0" />
+    <frame x="135" y="144" width="1934" height="1959" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
@@ -284,7 +281,7 @@
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Find" order="4" />
       <window_info anchor="bottom" id="Version Control" order="5" />
-      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.59006524" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.64438355" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -471,17 +468,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 3/input.txt">
+    <entry file="file://$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 3/1992_쿼드트리.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+        <state relative-caret-position="924">
+          <caret line="28" column="43" lean-forward="true" selection-start-line="28" selection-start-column="43" selection-end-line="28" selection-end-column="43" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 3/1992_쿼드트리.py">
+    <entry file="file://$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 3/input.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="47" column="22" lean-forward="true" selection-end-line="48" selection-end-column="10" />
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 3/14500_테트로미노.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3173">
+          <caret line="101" column="10" lean-forward="true" selection-start-line="101" selection-start-column="10" selection-end-line="101" selection-end-column="10" />
         </state>
       </provider>
     </entry>
