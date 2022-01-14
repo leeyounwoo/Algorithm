@@ -36,36 +36,47 @@ def functionR(pattern):
 
 
 def bfs(start, goal):
-    q = deque([[start, goal, '']])
+    q = deque([[start, '']])
     while q:
-        now_start, now_goal, ans = q.popleft()
-        n1 = functionD(now_start)
+        now_start, ans = q.popleft()
+        num = int(now_start)
+        num *= 2
+        if num >= 10000:
+            num %= 10000
+        new_pattern = str(num)
+        new_pattern = '0' * (4 - len(new_pattern)) + new_pattern
         ans1 = ans + 'D'
-        if n1 == now_goal:
+        if new_pattern == goal:
             return ans1
         else:
-            q.append([n1, now_goal, ans1])
+            q.append([new_pattern, ans1])
 
-        n2 = functionS(now_start)
+        num = int(now_start)
+        if num == 0:
+            new_pattern = '9999'
+        else:
+            num -= 1
+            new_pattern = str(num)
+            new_pattern = '0' * (4 - len(new_pattern)) + new_pattern
         ans2 = ans + 'S'
-        if n2 == now_goal:
+        if new_pattern == goal:
             return ans2
         else:
-            q.append([n2, now_goal, ans2])
+            q.append([new_pattern, ans2])
 
-        n3 = functionL(now_start)
+        new_pattern = now_start[1] + now_start[2] + now_start[3] + now_start[0]
         ans3 = ans + 'L'
-        if n3 == now_goal:
+        if new_pattern == goal:
             return ans3
         else:
-            q.append([n3, now_goal, ans3])
+            q.append([new_pattern, ans3])
 
-        n4 = functionR(now_start)
+        new_pattern = now_start[3] + now_start[0] + now_start[1] + now_start[2]
         ans4 = ans + 'R'
-        if n4 == now_goal:
+        if new_pattern == goal:
             return ans4
         else:
-            q.append([n4, now_goal, ans4])
+            q.append([new_pattern, ans4])
 
 sys.stdin = open('input.txt')
 for T in range(int(input())):
