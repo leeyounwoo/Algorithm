@@ -40,6 +40,7 @@ for i in range(n):
     node, left, right = map(str, input().split())
     graph[node]['left'] = left
     graph[node]['right'] = right
+print(graph)
 
 pattern_preorder = ''
 preorder('A')

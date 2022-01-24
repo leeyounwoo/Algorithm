@@ -1,38 +1,29 @@
 import sys
-from itertools import combinations
+
+sys.setrecursionlimit(1000000000)
+input = sys.stdin.readline
 
 
-def input():
-    return sys.stdin.readline().rstrip()
-
-
-sys.stdin = open('input.txt')
-pattern1 = input()
-alpha1 = {}
-for word in pattern1:
-    if word in alpha1:
-        alpha1[word] += 1
+def postorder(left, right):
+    if left > right:
+        return
     else:
-        alpha1[word] = 1
-print(alpha1)
+        root = preorder[left]
+        div = right + 1
+        for i in range(left + 1, right + 1):
+            if root < preorder[i]:
+                div = i
+                break
+        postorder(left + 1, div - 1)
+        postorder(div, right)
+        print(root)
 
-pattern2 = input()
-alpha2 = {}
-for word in pattern2:
-    if word in alpha2:
-        alpha2[word] += 1
-    else:
-        alpha2[word] = 1
-print(alpha2)
 
-ans = 0
-if len(alpha1.keys()) < len(alpha2.keys()):
-    for key in alpha1.keys():
-        if key in alpha2:
-            ans += min(alpha1[key], alpha2[key])
+preorder = []
+while True:
+    try:
+        preorder.append(int(input()))
+    except:
+        break
 
-else:
-    for key in alpha2.keys():
-        if key in alpha1:
-            ans += min(alpha1[key], alpha2[key])
-print(ans)
+postorder(0, len(preorder) - 1)
