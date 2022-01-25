@@ -18,7 +18,7 @@ def postorder(left, right):
         postorder(div, right)
         print(root)
 
-
+sys.stdin = open('input.txt')
 preorder = []
 while True:
     try:
