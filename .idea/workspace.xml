@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bae6a119-c790-49df-8b2e-2fc440797f08" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 4/11660_구간 합 구하기5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 4/121865_평범한 배낭.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 4/1753_최단경로.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 4/5639_이진 검색 트리.py" beforeDir="false" afterPath="$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 4/5639_이진 검색 트리.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 4/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 4/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 4/temp.py" beforeDir="false" afterPath="$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 4/temp.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,26 +19,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 4/input.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="99">
-              <caret line="3" column="9" lean-forward="true" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 4/5639_이진 검색 트리.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="594">
-              <caret line="18" column="19" lean-forward="true" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+            <state relative-caret-position="132">
+              <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 4/11660_구간 합 구하기5.py">
+        <entry file="file://$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 4/121865_평범한 배낭.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="594">
-              <caret line="18" column="22" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="22" />
+            <state relative-caret-position="1745">
+              <caret line="55" column="25" lean-forward="true" selection-start-line="55" selection-start-column="25" selection-end-line="55" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -108,8 +100,11 @@
         <option value="$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 4/1932_정수 삼각형.py" />
         <option value="$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 4/1991_트리 순회.py" />
         <option value="$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 4/5639_이진 검색 트리.py" />
-        <option value="$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 4/input.txt" />
         <option value="$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 4/11660_구간 합 구하기5.py" />
+        <option value="$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 4/temp.py" />
+        <option value="$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 4/1753_최단경로.py" />
+        <option value="$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 4/input.txt" />
+        <option value="$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 4/121865_평범한 배낭.py" />
       </list>
     </option>
   </component>
@@ -123,7 +118,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -164,6 +158,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -191,7 +186,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.1149_RGB거리">
+  <component name="RunManager" selected="Python.121865_평범한 배낭">
     <configuration name="1149_RGB거리" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -213,7 +208,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1932_정수 삼각형" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="121865_평범한 배낭" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -225,7 +220,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 4/1932_정수 삼각형.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 4/121865_평범한 배낭.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -234,7 +229,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1991_트리 순회" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="1753_최단경로" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -246,7 +241,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 4/1991_트리 순회.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 4/1753_최단경로.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -276,7 +271,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="5639_이진 검색 트리" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="temp" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -288,7 +283,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 4/5639_이진 검색 트리.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 4/temp.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -299,11 +294,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.121865_평범한 배낭" />
+        <item itemvalue="Python.1753_최단경로" />
+        <item itemvalue="Python.temp" />
         <item itemvalue="Python.1149_RGB거리" />
         <item itemvalue="Python.2407_조합" />
-        <item itemvalue="Python.5639_이진 검색 트리" />
-        <item itemvalue="Python.1991_트리 순회" />
-        <item itemvalue="Python.1932_정수 삼각형" />
       </list>
     </recent_temporary>
   </component>
@@ -322,10 +317,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1913" y="0" width="1934" height="2127" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.1814346" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.1814346" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" weight="0.32967034" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
@@ -373,27 +367,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 3/5525_IOIO.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="726">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 3/1927_최소 힙.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="2" selection-start-line="2" selection-end-line="38" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 3/11286_절대값 힙.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1157">
-          <caret line="53" column="37" selection-start-line="53" selection-start-column="37" selection-end-line="53" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 3/11724_연결 요소의 개수.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="737">
@@ -748,17 +721,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 4/input.txt">
+    <entry file="file://$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 4/1753_최단경로.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="3" column="9" lean-forward="true" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+        <state relative-caret-position="594">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 4/5639_이진 검색 트리.py">
+    <entry file="file://$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 4/temp.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="18" column="19" lean-forward="true" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+        <state relative-caret-position="33">
+          <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
         </state>
       </provider>
     </entry>
@@ -766,6 +742,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="594">
           <caret line="18" column="22" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 4/5639_이진 검색 트리.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 4/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 4/121865_평범한 배낭.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1745">
+          <caret line="55" column="25" lean-forward="true" selection-start-line="55" selection-start-column="25" selection-end-line="55" selection-end-column="25" />
         </state>
       </provider>
     </entry>
