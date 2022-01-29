@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bae6a119-c790-49df-8b2e-2fc440797f08" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/BAEKJOON/단계별로 풀기/01. 입출력과 사칙연산/10926_joonas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BAEKJOON/단계별로 풀기/01. 입출력과 사칙연산/18108_1998년생인 내가 태국에서는 2541년생.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BAEKJOON/단계별로 풀기/11.정렬/1427_소트인사이드.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BAEKJOON/단계별로 풀기/11.정렬/2750_수 정렬하기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BAEKJOON/단계별로 풀기/12.백트래킹/15649_N과 M(1).py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BAEKJOON/단계별로 풀기/11.정렬/1427_소트인사이드.py" beforeDir="false" afterPath="$PROJECT_DIR$/BAEKJOON/단계별로 풀기/11.정렬/1427_소트인사이드.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -47,16 +45,25 @@
         <entry file="file://$PROJECT_DIR$/BAEKJOON/단계별로 풀기/11.정렬/2750_수 정렬하기.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="99">
-              <caret line="3" column="12" lean-forward="true" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+              <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BAEKJOON/단계별로 풀기/11.정렬/1427_소트인사이드.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="2" column="20" lean-forward="true" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/BAEKJOON/단계별로 풀기/11.정렬/1427_소트인사이드.py">
+        <entry file="file://$PROJECT_DIR$/BAEKJOON/단계별로 풀기/12.백트래킹/15649_N과 M(1).py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="2" column="22" lean-forward="true" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+            <state relative-caret-position="231">
+              <caret line="7" column="11" lean-forward="true" selection-end-line="7" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -103,7 +110,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 3/5525_IOIO.py" />
         <option value="$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 3/11724_연결 요소의 개수.py" />
         <option value="$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 3/1074_Z.py" />
         <option value="$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 3/11403_경로 찾기.py" />
@@ -154,12 +160,12 @@
         <option value="$PROJECT_DIR$/BAEKJOON/단계별로 풀기/01. 입출력과 사칙연산/18108_1998년생인 내가 태국에서는 2541년생.py" />
         <option value="$PROJECT_DIR$/BAEKJOON/단계별로 풀기/11.정렬/2750_수 정렬하기.py" />
         <option value="$PROJECT_DIR$/BAEKJOON/단계별로 풀기/11.정렬/1427_소트인사이드.py" />
+        <option value="$PROJECT_DIR$/BAEKJOON/단계별로 풀기/12.백트래킹/15649_N과 M(1).py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="918" />
-    <option name="y" value="49" />
+    <option name="x" value="1913" />
     <option name="width" value="1934" />
     <option name="height" value="2127" />
   </component>
@@ -168,7 +174,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -192,7 +197,7 @@
               <item name="algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="BAEKJOON" type="462c0819:PsiDirectoryNode" />
               <item name="단계별로 풀기" type="462c0819:PsiDirectoryNode" />
-              <item name="11.정렬" type="462c0819:PsiDirectoryNode" />
+              <item name="12.백트래킹" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
@@ -209,6 +214,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -236,7 +242,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.1427_소트인사이드">
+  <component name="RunManager" selected="Python.15649_N과 M(1)">
     <configuration name="10926_joonas" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -258,27 +264,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="121865_평범한 배낭" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 4" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 4/121865_평범한 배낭.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="1427_소트인사이드" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -292,6 +277,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BAEKJOON/단계별로 풀기/11.정렬/1427_소트인사이드.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="15649_N과 M(1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BAEKJOON/단계별로 풀기/12.백트래킹" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BAEKJOON/단계별로 풀기/12.백트래킹/15649_N과 M(1).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -344,11 +350,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.15649_N과 M(1)" />
         <item itemvalue="Python.1427_소트인사이드" />
         <item itemvalue="Python.2750_수 정렬하기" />
         <item itemvalue="Python.18108_1998년생인 내가 태국에서는 2541년생" />
         <item itemvalue="Python.10926_joonas" />
-        <item itemvalue="Python.121865_평범한 배낭" />
       </list>
     </recent_temporary>
   </component>
@@ -366,8 +372,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="918" y="49" width="1934" height="2127" extended-state="0" />
-    <editor active="true" />
+    <frame x="1913" y="0" width="1934" height="2127" extended-state="0" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.1814346" />
@@ -378,7 +383,7 @@
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Find" order="4" />
       <window_info anchor="bottom" id="Version Control" order="5" />
-      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.24435525" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.24435525" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -418,16 +423,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 3/7576_토마토.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="924">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 3/1260_DFS와 BFS.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="363">
@@ -758,10 +753,32 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/BAEKJOON/단계별로 풀기/11.정렬/2750_수 정렬하기" />
     <entry file="file://$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 4/input.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BAEKJOON/단계별로 풀기/01. 입출력과 사칙연산/10926_joonas.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="20" selection-start-column="20" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BAEKJOON/단계별로 풀기/01. 입출력과 사칙연산/18108_1998년생인 내가 태국에서는 2541년생.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BAEKJOON/단계별로 풀기/11.정렬/2750_수 정렬하기.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
         </state>
       </provider>
     </entry>
@@ -782,34 +799,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BAEKJOON/단계별로 풀기/01. 입출력과 사칙연산/10926_joonas.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="20" selection-start-column="20" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BAEKJOON/단계별로 풀기/11.정렬/2750_수 정렬하기">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BAEKJOON/단계별로 풀기/01. 입출력과 사칙연산/18108_1998년생인 내가 태국에서는 2541년생.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="1" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BAEKJOON/단계별로 풀기/11.정렬/2750_수 정렬하기.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="3" column="12" lean-forward="true" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/BAEKJOON/단계별로 풀기/11.정렬/1427_소트인사이드.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="66">
-          <caret line="2" column="22" lean-forward="true" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+          <caret line="2" column="20" lean-forward="true" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BAEKJOON/단계별로 풀기/12.백트래킹/15649_N과 M(1).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="7" column="11" lean-forward="true" selection-end-line="7" selection-end-column="11" />
         </state>
       </provider>
     </entry>
