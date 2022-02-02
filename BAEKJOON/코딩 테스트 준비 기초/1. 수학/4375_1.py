@@ -16,6 +16,5 @@ while True:
                 break
             else:
                 number_str += '1'
-
     except:
         break
