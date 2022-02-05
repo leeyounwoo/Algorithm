@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bae6a119-c790-49df-8b2e-2fc440797f08" name="Default Changelist" comment="" />
+    <list default="true" id="bae6a119-c790-49df-8b2e-2fc440797f08" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/BAEKJOON/코딩 테스트 준비 기초/2. 브루트 포스/15655_N과 M(7).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BAEKJOON/코딩 테스트 준비 기초/2. 브루트 포스/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/BAEKJOON/코딩 테스트 준비 기초/2. 브루트 포스/input.txt" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,10 +15,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BAEKJOON/코딩 테스트 준비 기초/2. 브루트 포스/15661_링크와 스타트.py">
+        <entry file="file://$PROJECT_DIR$/BAEKJOON/코딩 테스트 준비 기초/2. 브루트 포스/input.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="429">
-              <caret line="13" column="20" lean-forward="true" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+            <state relative-caret-position="33">
+              <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BAEKJOON/코딩 테스트 준비 기초/2. 브루트 포스/15655_N과 M(6).py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="462">
+              <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
@@ -23,22 +36,13 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/BAEKJOON/코딩 테스트 준비 기초/2. 브루트 포스/1182_부분수열의 합.py">
+        <entry file="file://$PROJECT_DIR$/BAEKJOON/코딩 테스트 준비 기초/2. 브루트 포스/15655_N과 M(7).py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="561">
-              <caret line="17" column="10" lean-forward="true" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
+            <state relative-caret-position="462">
+              <caret line="14" column="11" lean-forward="true" selection-end-line="14" selection-end-column="11" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BAEKJOON/코딩 테스트 준비 기초/2. 브루트 포스/input.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="33">
-              <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -65,8 +69,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 3/2527_직사각형.py" />
-        <option value="$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 1/2475_검증수.py" />
         <option value="$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 1/2920_음계.py" />
         <option value="$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 3/16236_아기 상어.py" />
         <option value="$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 3/5430_AC.py" />
@@ -114,14 +116,16 @@
         <option value="$PROJECT_DIR$/BAEKJOON/코딩 테스트 준비 기초/1. 수학/17427_약수의 합 2.py" />
         <option value="$PROJECT_DIR$/BAEKJOON/코딩 테스트 준비 기초/1. 수학/input.txt" />
         <option value="$PROJECT_DIR$/BAEKJOON/코딩 테스트 준비 기초/2. 브루트 포스/15661_링크와 스타트.py" />
-        <option value="$PROJECT_DIR$/BAEKJOON/코딩 테스트 준비 기초/2. 브루트 포스/input.txt" />
         <option value="$PROJECT_DIR$/BAEKJOON/코딩 테스트 준비 기초/2. 브루트 포스/1182_부분수열의 합.py" />
+        <option value="$PROJECT_DIR$/BAEKJOON/코딩 테스트 준비 기초/2. 브루트 포스/15655_N과 M(6).py" />
+        <option value="$PROJECT_DIR$/BAEKJOON/코딩 테스트 준비 기초/2. 브루트 포스/input.txt" />
+        <option value="$PROJECT_DIR$/BAEKJOON/코딩 테스트 준비 기초/2. 브루트 포스/15655_N과 M(7).py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="450" />
-    <option name="y" value="169" />
+    <option name="x" value="1664" />
+    <option name="y" value="56" />
     <option name="width" value="1934" />
     <option name="height" value="2127" />
   </component>
@@ -130,7 +134,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -142,19 +145,6 @@
               <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="BAEKJOON" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="BAEKJOON" type="462c0819:PsiDirectoryNode" />
-              <item name="단계별로 풀기" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="BAEKJOON" type="462c0819:PsiDirectoryNode" />
-              <item name="단계별로 풀기" type="462c0819:PsiDirectoryNode" />
-              <item name="12.백트래킹" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
@@ -187,6 +177,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -217,28 +208,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.15655_N과 M(6)">
-    <configuration name="1037_약수" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BAEKJOON/코딩 테스트 준비 기초/1. 수학" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BAEKJOON/코딩 테스트 준비 기초/1. 수학/1037_약수.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.15655_N과 M(7)">
     <configuration name="1182_부분수열의 합" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -273,6 +243,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BAEKJOON/코딩 테스트 준비 기초/2. 브루트 포스/15655_N과 M(6).py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="15655_N과 M(7)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BAEKJOON/코딩 테스트 준비 기초/2. 브루트 포스" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BAEKJOON/코딩 테스트 준비 기초/2. 브루트 포스/15655_N과 M(7).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -325,11 +316,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.15655_N과 M(7)" />
         <item itemvalue="Python.15655_N과 M(6)" />
         <item itemvalue="Python.1182_부분수열의 합" />
         <item itemvalue="Python.15661_링크와 스타트" />
         <item itemvalue="Python.17427_약수의 합 2" />
-        <item itemvalue="Python.1037_약수" />
       </list>
     </recent_temporary>
   </component>
@@ -347,7 +338,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="974" y="23" width="1934" height="2127" extended-state="0" />
+    <frame x="1664" y="56" width="1934" height="2127" extended-state="0" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.1814346" />
@@ -398,23 +389,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 3/s1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="17" selection-start-column="17" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 3/1107_리모컨2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="825">
-          <caret line="25" column="16" selection-end-line="36" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 3/00.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
@@ -740,10 +714,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/BAEKJOON/코딩 테스트 준비 기초/2. 브루트 포스/1182_부분수열의 합.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="17" column="10" lean-forward="true" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/BAEKJOON/코딩 테스트 준비 기초/2. 브루트 포스/15661_링크와 스타트.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="429">
-          <caret line="13" column="20" lean-forward="true" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+          <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BAEKJOON/코딩 테스트 준비 기초/2. 브루트 포스/15655_N과 M(6).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
           </folding>
@@ -753,14 +747,14 @@
     <entry file="file://$PROJECT_DIR$/BAEKJOON/코딩 테스트 준비 기초/2. 브루트 포스/input.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="33">
-          <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+          <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BAEKJOON/코딩 테스트 준비 기초/2. 브루트 포스/1182_부분수열의 합.py">
+    <entry file="file://$PROJECT_DIR$/BAEKJOON/코딩 테스트 준비 기초/2. 브루트 포스/15655_N과 M(7).py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="17" column="10" lean-forward="true" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
+        <state relative-caret-position="462">
+          <caret line="14" column="11" lean-forward="true" selection-end-line="14" selection-end-column="11" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
           </folding>
