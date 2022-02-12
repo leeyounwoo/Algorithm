@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bae6a119-c790-49df-8b2e-2fc440797f08" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 4/9251_LCS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BAEKJOON/코딩 테스트 준비 기초/5. 시뮬레이션과 구현/16926_배열 돌리기1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BAEKJOON/코딩 테스트 준비 기초/5. 시뮬레이션과 구현/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/BAEKJOON/코딩 테스트 준비 기초/5. 시뮬레이션과 구현/input.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,18 +14,30 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BAEKJOON/코딩 테스트 준비 기초/3. 다이나믹 프로그래밍/2133_타일 채우기.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/BAEKJOON/코딩 테스트 준비 기초/5. 시뮬레이션과 구현/16926_배열 돌리기1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            <state relative-caret-position="647">
+              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 4/9251_LCS.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BAEKJOON/코딩 테스트 준비 기초/5. 시뮬레이션과 구현/00.py">
           <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BAEKJOON/코딩 테스트 준비 기초/5. 시뮬레이션과 구현/input.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -48,8 +62,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 4/00.py" />
-        <option value="$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 4/N과 M.py" />
         <option value="$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 4/N과 M(4).py" />
         <option value="$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 4/N과 M(5).py" />
         <option value="$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 4/N과 M(8).py" />
@@ -76,7 +88,6 @@
         <option value="$PROJECT_DIR$/BAEKJOON/단계별로 풀기/11.정렬/1427_소트인사이드.py" />
         <option value="$PROJECT_DIR$/BAEKJOON/단계별로 풀기/12.백트래킹/15649_N과 M(1).py" />
         <option value="$PROJECT_DIR$/BAEKJOON/단계별로 풀기/12.백트래킹/15651_N과 M(3).py" />
-        <option value="$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 4/input.txt" />
         <option value="$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 4/9663_N-Queen.py" />
         <option value="$PROJECT_DIR$/코딩 테스트/00.코딩테스트 참고 코드/BFS_기초_반복문.py" />
         <option value="$PROJECT_DIR$/BAEKJOON/단계별로 풀기/13.  큐/18258_큐2.py" />
@@ -96,9 +107,12 @@
         <option value="$PROJECT_DIR$/BAEKJOON/코딩 테스트 준비 기초/2. 브루트 포스/14501_퇴사.py" />
         <option value="$PROJECT_DIR$/BAEKJOON/코딩 테스트 준비 기초/2. 브루트 포스/input.txt" />
         <option value="$PROJECT_DIR$/BAEKJOON/코딩 테스트 준비 기초/4. 그래프와 BFS/input.txt" />
-        <option value="$PROJECT_DIR$/BAEKJOON/코딩 테스트 준비 기초/5. 시뮬레이션과 구현/input.txt" />
         <option value="$PROJECT_DIR$/BAEKJOON/코딩 테스트 준비 기초/5. 시뮬레이션과 구현/16935_배열돌리기3.py" />
         <option value="$PROJECT_DIR$/BAEKJOON/코딩 테스트 준비 기초/3. 다이나믹 프로그래밍/2133_타일 채우기.py" />
+        <option value="$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 4/input.txt" />
+        <option value="$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 4/9251_LCS.py" />
+        <option value="$PROJECT_DIR$/BAEKJOON/코딩 테스트 준비 기초/5. 시뮬레이션과 구현/input.txt" />
+        <option value="$PROJECT_DIR$/BAEKJOON/코딩 테스트 준비 기초/5. 시뮬레이션과 구현/16926_배열 돌리기1.py" />
       </list>
     </option>
   </component>
@@ -113,6 +127,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -129,20 +144,19 @@
               <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="BAEKJOON" type="462c0819:PsiDirectoryNode" />
-              <item name="클래스별로 풀기" type="462c0819:PsiDirectoryNode" />
+              <item name="코딩 테스트 준비 기초" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="BAEKJOON" type="462c0819:PsiDirectoryNode" />
-              <item name="클래스별로 풀기" type="462c0819:PsiDirectoryNode" />
-              <item name="class 4" type="462c0819:PsiDirectoryNode" />
+              <item name="코딩 테스트 준비 기초" type="462c0819:PsiDirectoryNode" />
+              <item name="5. 시뮬레이션과 구현" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -151,11 +165,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\LeeYounWoo\Desktop\algorithm\BAEKJOON\코딩 테스트 준비 기초\3. 다이나믹 프로그래밍" />
       <recent name="C:\Users\LeeYounWoo\Desktop\algorithm\BAEKJOON\코딩 테스트 준비 기초\5. 시뮬레이션과 구현" />
+      <recent name="C:\Users\LeeYounWoo\Desktop\algorithm\BAEKJOON\클래스별로 풀기\class 4" />
+      <recent name="C:\Users\LeeYounWoo\Desktop\algorithm\BAEKJOON\코딩 테스트 준비 기초\3. 다이나믹 프로그래밍" />
       <recent name="C:\Users\LeeYounWoo\Desktop\algorithm\BAEKJOON\코딩 테스트 준비 기초\2. 브루트 포스" />
       <recent name="C:\Users\LeeYounWoo\Desktop\algorithm\BAEKJOON\코딩 테스트 준비 기초" />
-      <recent name="C:\Users\LeeYounWoo\Desktop\algorithm\BAEKJOON\코딩 테스트 준비 기초\1. 수학" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\LeeYounWoo\Desktop\algorithm\BAEKJOON\코딩 테스트 준비 기초\4. 그래프와 BFS" />
@@ -174,8 +188,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.9251_LCS">
-    <configuration name="14501_퇴사" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.16926_배열 돌리기1">
+    <configuration name="16926_배열 돌리기1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -183,11 +197,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BAEKJOON/코딩 테스트 준비 기초/2. 브루트 포스" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BAEKJOON/코딩 테스트 준비 기초/5. 시뮬레이션과 구현" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\LeeYounWoo\Desktop\algorithm\BAEKJOON\코딩 테스트 준비 기초\4. 그래프와 BFS\7562_나이트의 이동.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BAEKJOON/코딩 테스트 준비 기초/5. 시뮬레이션과 구현/16926_배열 돌리기1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -282,11 +296,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.16926_배열 돌리기1" />
         <item itemvalue="Python.9251_LCS" />
         <item itemvalue="Python.2133_타일 채우기" />
         <item itemvalue="Python.16935_배열돌리기3" />
         <item itemvalue="Python.7562_나이트의 이동" />
-        <item itemvalue="Python.14501_퇴사" />
       </list>
     </recent_temporary>
   </component>
@@ -304,10 +318,11 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1913" y="0" width="1934" height="2127" extended-state="0" />
+    <frame x="175" y="178" width="1934" height="2127" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.1814346" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.1814346" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" weight="0.32967034" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
@@ -315,7 +330,7 @@
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Find" order="4" weight="0.3296538" />
       <window_info anchor="bottom" id="Version Control" order="5" />
-      <window_info anchor="bottom" id="Run" order="6" weight="0.4681385" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.4681385" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -355,7 +370,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 4/11660_구간 합 구하기 5.py" />
     <entry file="file://$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 4/12851_숨바꼭질 2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="363">
@@ -530,13 +544,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 4/input.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="2" selection-start-column="2" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 4/00.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -567,9 +574,6 @@
           <caret line="19" column="13" lean-forward="true" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BAEKJOON/코딩 테스트 준비 기초/5. 시뮬레이션과 구현/00.py">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/BAEKJOON/코딩 테스트 준비 기초/4. 그래프와 BFS/00.py">
       <provider selected="true" editor-type-id="text-editor" />
@@ -697,10 +701,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BAEKJOON/코딩 테스트 준비 기초/5. 시뮬레이션과 구현/input.txt">
+    <entry file="file://$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 4/9251_LCS.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+        <state relative-caret-position="99">
+          <caret line="3" column="12" lean-forward="true" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
         </state>
       </provider>
     </entry>
@@ -711,8 +715,32 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 4/9251_LCS.py">
+    <entry file="file://$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 4/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BAEKJOON/코딩 테스트 준비 기초/5. 시뮬레이션과 구현/00.py">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BAEKJOON/코딩 테스트 준비 기초/5. 시뮬레이션과 구현/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BAEKJOON/코딩 테스트 준비 기초/5. 시뮬레이션과 구현/16926_배열 돌리기1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="647">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
