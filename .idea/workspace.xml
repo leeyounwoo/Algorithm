@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bae6a119-c790-49df-8b2e-2fc440797f08" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 4/2638_치즈.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BAEKJOON/단계별로 풀기/14  분할 정복/00.py" beforeDir="false" afterPath="$PROJECT_DIR$/BAEKJOON/단계별로 풀기/14  분할 정복/00.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BAEKJOON/단계별로 풀기/14  분할 정복/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/BAEKJOON/단계별로 풀기/14  분할 정복/input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 4/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 4/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 4/12851_숨바꼭질2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 4/2638_치즈.py" beforeDir="false" afterPath="$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 4/2638_치즈.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,17 +16,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 4/00.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="4" column="40" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
+            <state relative-caret-position="165">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 4/12851_숨바꼭질2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="20" column="32" selection-end-line="48" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 4/2638_치즈.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="627">
-              <caret line="19" column="7" lean-forward="true" selection-end-line="34" selection-end-column="13" />
+            <state relative-caret-position="163">
+              <caret line="11" column="60" lean-forward="true" selection-start-line="11" selection-start-column="60" selection-end-line="11" selection-end-column="60" />
             </state>
           </provider>
         </entry>
@@ -65,7 +71,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 4/1991_트리 순회.py" />
         <option value="$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 4/5639_이진 검색 트리.py" />
         <option value="$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 4/11660_구간 합 구하기5.py" />
         <option value="$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 4/temp.py" />
@@ -113,9 +118,10 @@
         <option value="$PROJECT_DIR$/BAEKJOON/단계별로 풀기/02. if문/2480_주사위 세개.py" />
         <option value="$PROJECT_DIR$/BAEKJOON/단계별로 풀기/14  분할 정복/input.txt" />
         <option value="$PROJECT_DIR$/BAEKJOON/단계별로 풀기/14  분할 정복/00.py" />
-        <option value="$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 4/00.py" />
         <option value="$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 4/input.txt" />
         <option value="$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 4/2638_치즈.py" />
+        <option value="$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 4/00.py" />
+        <option value="$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 4/12851_숨바꼭질2.py" />
       </list>
     </option>
   </component>
@@ -129,6 +135,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -145,20 +152,19 @@
               <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="BAEKJOON" type="462c0819:PsiDirectoryNode" />
-              <item name="단계별로 풀기" type="462c0819:PsiDirectoryNode" />
+              <item name="클래스별로 풀기" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="BAEKJOON" type="462c0819:PsiDirectoryNode" />
-              <item name="단계별로 풀기" type="462c0819:PsiDirectoryNode" />
-              <item name="14  분할 정복" type="462c0819:PsiDirectoryNode" />
+              <item name="클래스별로 풀기" type="462c0819:PsiDirectoryNode" />
+              <item name="class 4" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -166,16 +172,16 @@
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\LeeYounWoo\Desktop\algorithm\BAEKJOON\코딩 테스트 준비 기초\4. 그래프와 BFS" />
+      <recent name="C:\Users\LeeYounWoo\Desktop\algorithm\BAEKJOON\단계별로 풀기\12.백트래킹" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\LeeYounWoo\Desktop\algorithm\BAEKJOON\클래스별로 풀기\class 4" />
       <recent name="C:\Users\LeeYounWoo\Desktop\algorithm\BAEKJOON\단계별로 풀기\02. if문" />
       <recent name="C:\Users\LeeYounWoo\Desktop\algorithm\BAEKJOON\단계별로 풀기\14  분할 정복" />
       <recent name="C:\Users\LeeYounWoo\Desktop\algorithm\BAEKJOON\단계별로 풀기" />
       <recent name="C:\Users\LeeYounWoo\Desktop\algorithm\BAEKJOON\코딩 테스트 준비 기초\5. 시뮬레이션과 구현" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\LeeYounWoo\Desktop\algorithm\BAEKJOON\코딩 테스트 준비 기초\4. 그래프와 BFS" />
-      <recent name="C:\Users\LeeYounWoo\Desktop\algorithm\BAEKJOON\단계별로 풀기\12.백트래킹" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -321,10 +327,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1273" y="0" width="1294" height="1567" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="1" weight="0.27388534" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.27388534" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" weight="0.32967034" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
@@ -372,13 +377,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/BAEKJOON/단계별로 풀기/12.백트래킹/15651_N과 M(3).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 4/temp.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="33">
@@ -696,13 +694,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 4/00.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="4" column="40" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 4/input.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
@@ -712,8 +703,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 4/2638_치즈.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="627">
-          <caret line="19" column="7" lean-forward="true" selection-end-line="34" selection-end-column="13" />
+        <state relative-caret-position="163">
+          <caret line="11" column="60" lean-forward="true" selection-start-line="11" selection-start-column="60" selection-end-line="11" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 4/00.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 4/12851_숨바꼭질2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="20" column="32" selection-end-line="48" selection-end-column="15" />
         </state>
       </provider>
     </entry>

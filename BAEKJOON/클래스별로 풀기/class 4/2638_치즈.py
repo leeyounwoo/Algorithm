@@ -1,4 +1,12 @@
 from collections import deque
+import sys
+
+
+def input():
+    return sys.stdin.readline().rstrip()
+
+
+sys.stdin = open('input.txt')
 
 n, m = map(int, input().split())
 cheeze = [list(map(int, input().split())) for _ in range(n)]
