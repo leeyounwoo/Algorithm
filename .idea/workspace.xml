@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bae6a119-c790-49df-8b2e-2fc440797f08" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/BAEKJOON/단계별로 풀기/14  분할 정복/1904_01타일.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SWEA/4880_토너먼트 카드게임.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BAEKJOON/단계별로 풀기/14  분할 정복/00.py" beforeDir="false" afterPath="$PROJECT_DIR$/BAEKJOON/단계별로 풀기/14  분할 정복/00.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BAEKJOON/단계별로 풀기/14  분할 정복/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/BAEKJOON/단계별로 풀기/14  분할 정복/input.txt" afterDir="false" />
-    </list>
+    <list default="true" id="bae6a119-c790-49df-8b2e-2fc440797f08" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,77 +10,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 4/00.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/BAEKJOON/단계별로 풀기/15. 정수론 및 조합론/1934_최소공배수.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="165">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 4/12851_숨바꼭질2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="512">
-              <caret line="28" column="25" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SWEA/4880_토너먼트 카드게임.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="2" column="20" lean-forward="true" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BAEKJOON/단계별로 풀기/14  분할 정복/00.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/BAEKJOON/단계별로 풀기/14  분할 정복/1904_01타일.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="528">
-              <caret line="16" column="16" selection-end-line="18" selection-end-column="16" />
-              <folding>
-                <element signature="e#0#10#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BAEKJOON/단계별로 풀기/14  분할 정복/input.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="1" selection-start-column="1" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 4/2638_치즈.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="11" column="60" selection-start-line="11" selection-start-column="60" selection-end-line="11" selection-end-column="60" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 4/input.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="8" column="17" selection-end-line="8" selection-end-column="17" />
+              <caret line="5" column="39" selection-end-line="5" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -113,7 +41,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 4/temp.py" />
         <option value="$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 4/1753_최단경로.py" />
         <option value="$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 4/121865_평범한 배낭.py" />
         <option value="$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 4/1916_최소 비용 구하기.py" />
@@ -164,11 +91,13 @@
         <option value="$PROJECT_DIR$/BAEKJOON/단계별로 풀기/14  분할 정복/input.txt" />
         <option value="$PROJECT_DIR$/BAEKJOON/단계별로 풀기/14  분할 정복/00.py" />
         <option value="$PROJECT_DIR$/BAEKJOON/단계별로 풀기/14  분할 정복/1904_01타일.py" />
+        <option value="$PROJECT_DIR$/BAEKJOON/단계별로 풀기/15. 정수론 및 조합론/1934_최소공배수.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1273" />
+    <option name="x" value="1276" />
+    <option name="y" value="239" />
     <option name="width" value="1294" />
     <option name="height" value="1567" />
   </component>
@@ -177,6 +106,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -200,13 +130,12 @@
               <item name="algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="BAEKJOON" type="462c0819:PsiDirectoryNode" />
               <item name="단계별로 풀기" type="462c0819:PsiDirectoryNode" />
-              <item name="14  분할 정복" type="462c0819:PsiDirectoryNode" />
+              <item name="15. 정수론 및 조합론" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -238,7 +167,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.1904_01타일">
+  <component name="RunManager" selected="Python.1934_최소공배수">
     <configuration name="00" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -302,7 +231,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2580_스도쿠" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="1934_최소공배수" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -310,11 +239,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BAEKJOON/단계별로 풀기/12.백트래킹" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BAEKJOON/단계별로 풀기/15. 정수론 및 조합론" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BAEKJOON/단계별로 풀기/12.백트래킹/2580_스도쿠.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BAEKJOON/단계별로 풀기/15. 정수론 및 조합론/1934_최소공배수.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -346,11 +275,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.1934_최소공배수" />
         <item itemvalue="Python.1904_01타일" />
         <item itemvalue="Python.00" />
         <item itemvalue="Python.2638_치즈" />
         <item itemvalue="Python.16927_배열 돌리기2" />
-        <item itemvalue="Python.2580_스도쿠" />
       </list>
     </recent_temporary>
   </component>
@@ -369,9 +298,10 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1273" y="0" width="1294" height="1567" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.27388534" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.02388535" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" weight="0.32967034" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
@@ -419,16 +349,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 4/1916_최소 비용 구하기.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 4/9663_N-Queen.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="627">
@@ -715,6 +635,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 4/12851_숨바꼭질2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="924">
+          <caret line="28" column="25" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SWEA/4880_토너먼트 카드게임.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BAEKJOON/단계별로 풀기/14  분할 정복/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="1" selection-start-column="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 4/2638_치즈.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
@@ -729,24 +670,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BAEKJOON/클래스별로 풀기/class 4/12851_숨바꼭질2.py">
+    <entry file="file://$PROJECT_DIR$/BAEKJOON/단계별로 풀기/14  분할 정복/1904_01타일.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="512">
-          <caret line="28" column="25" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SWEA/4880_토너먼트 카드게임.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="2" column="20" lean-forward="true" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BAEKJOON/단계별로 풀기/14  분할 정복/input.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="1" selection-start-column="1" selection-end-column="1" />
+        <state relative-caret-position="594">
+          <caret line="18" column="16" lean-forward="true" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -757,13 +687,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BAEKJOON/단계별로 풀기/14  분할 정복/1904_01타일.py">
+    <entry file="file://$PROJECT_DIR$/BAEKJOON/단계별로 풀기/15. 정수론 및 조합론/1934_최소공배수.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="16" column="16" selection-end-line="18" selection-end-column="16" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="165">
+          <caret line="5" column="39" selection-end-line="5" selection-end-column="41" />
         </state>
       </provider>
     </entry>
