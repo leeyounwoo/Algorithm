@@ -256,7 +256,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.13023_ABCDE">
+  <component name="RunManager" selected="Python.2004_조합 0의 개수">
     <configuration name="10971_외판원순회2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -341,7 +341,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="6588_골드바흐의 추측" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="2004_조합 0의 개수" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -349,11 +349,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BAEKJOON/코딩 테스트 준비 기초/1. 수학" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BAEKJOON/단계별로 풀기/15. 정수론 및 조합론" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BAEKJOON/코딩 테스트 준비 기초/1. 수학/6588_골드바흐의 추측.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BAEKJOON/단계별로 풀기/15. 정수론 및 조합론/2004_조합 0의 개수.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -364,11 +364,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.2004_조합 0의 개수" />
         <item itemvalue="Python.13023_ABCDE" />
         <item itemvalue="Python.10971_외판원순회2" />
         <item itemvalue="Python.17298_오큰수" />
         <item itemvalue="Python.18290_NM과 K" />
-        <item itemvalue="Python.6588_골드바흐의 추측" />
       </list>
     </recent_temporary>
   </component>
