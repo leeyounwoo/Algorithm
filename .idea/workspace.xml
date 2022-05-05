@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bae6a119-c790-49df-8b2e-2fc440797f08" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/프로그래머스/카카오/Level2/3. 문자열 압축.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/프로그래머스/카카오/Level2/4. 괄호 변환.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/프로그래머스/카카오/Level2/temp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/프로그래머스/카카오/Level 3/1. 표 편집.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/프로그래머스/카카오/Level 3/2. 보석 쇼핑.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/프로그래머스/카카오/Level 3/s1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/프로그래머스/카카오/Level2/2. 메뉴 리뉴얼.py" beforeDir="false" afterPath="$PROJECT_DIR$/프로그래머스/카카오/Level2/2. 메뉴 리뉴얼.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -52,11 +51,41 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/프로그래머스/카카오/Level2/4. 괄호 변환.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1316">
-              <caret line="45" column="31" lean-forward="true" selection-start-line="45" selection-start-column="31" selection-end-line="45" selection-end-column="31" />
+            <state relative-caret-position="1485">
+              <caret line="45" column="31" selection-start-line="45" selection-start-column="31" selection-end-line="45" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/프로그래머스/카카오/Level 3/1. 표 편집.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1122">
+              <caret line="34" selection-start-line="34" selection-end-line="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/프로그래머스/카카오/Level 3/2. 보석 쇼핑.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="957">
+              <caret line="29" column="20" lean-forward="true" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
+              <folding>
+                <element signature="e#0#31#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/프로그래머스/카카오/Level 3/s1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -65,7 +94,7 @@
         <entry file="file://$PROJECT_DIR$/프로그래머스/카카오/Level2/temp.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="33">
-              <caret line="1" column="14" lean-forward="true" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+              <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -95,10 +124,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/BAEKJOON/코딩 테스트 준비 기초/1. 수학/input.txt" />
-        <option value="$PROJECT_DIR$/BAEKJOON/코딩 테스트 준비 기초/1. 수학/6588_골드바흐의 추측.py" />
-        <option value="$PROJECT_DIR$/BAEKJOON/코딩 테스트 준비 기초/2. 브루트 포스/18290_NM과 K.py" />
-        <option value="$PROJECT_DIR$/BAEKJOON/코딩 테스트 준비 기초/2. 브루트 포스/14501_퇴사.py" />
         <option value="$PROJECT_DIR$/BAEKJOON/코딩 테스트 준비 기초/2. 브루트 포스/2529_부등호.py" />
         <option value="$PROJECT_DIR$/BAEKJOON/단계별로 풀기/16. 스택/17298_오큰수.py" />
         <option value="$PROJECT_DIR$/BAEKJOON/단계별로 풀기/16. 스택/input.txt" />
@@ -146,20 +171,24 @@
         <option value="$PROJECT_DIR$/프로그래머스/카카오/Level2/3. 문자열 압축.py" />
         <option value="$PROJECT_DIR$/프로그래머스/카카오/Level2/temp.py" />
         <option value="$PROJECT_DIR$/프로그래머스/카카오/Level2/4. 괄호 변환.py" />
+        <option value="$PROJECT_DIR$/프로그래머스/카카오/Level 3/s1.py" />
+        <option value="$PROJECT_DIR$/프로그래머스/카카오/Level 3/1. 표 편집2.py" />
+        <option value="$PROJECT_DIR$/프로그래머스/카카오/Level 3/1. 표 편집.py" />
+        <option value="$PROJECT_DIR$/프로그래머스/카카오/Level 3/2. 보석 쇼핑.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1913" />
-    <option name="width" value="1934" />
-    <option name="height" value="2127" />
+    <option name="x" value="1912" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="2136" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -183,12 +212,13 @@
               <item name="algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="프로그래머스" type="462c0819:PsiDirectoryNode" />
               <item name="카카오" type="462c0819:PsiDirectoryNode" />
-              <item name="Level2" type="462c0819:PsiDirectoryNode" />
+              <item name="Level 3" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -196,16 +226,16 @@
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\LeeYounWoo\Desktop\algorithm\프로그래머스\카카오\Level.1" />
-      <recent name="C:\Users\LeeYounWoo\Desktop\algorithm\BAEKJOON\코딩 테스트 준비 기초\4. 그래프와 BFS" />
-      <recent name="C:\Users\LeeYounWoo\Desktop\algorithm\BAEKJOON\단계별로 풀기\12.백트래킹" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\LeeYounWoo\Desktop\algorithm\프로그래머스\카카오\Level 3" />
       <recent name="C:\Users\LeeYounWoo\Desktop\algorithm\프로그래머스\카카오\Level2" />
       <recent name="C:\Users\LeeYounWoo\Desktop\algorithm\프로그래머스\카카오\Level.1" />
       <recent name="C:\Users\LeeYounWoo\Desktop\algorithm\코딩 테스트\SK 2차" />
       <recent name="C:\Users\LeeYounWoo\Desktop\algorithm\코딩 테스트\SK" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\LeeYounWoo\Desktop\algorithm\프로그래머스\카카오\Level.1" />
+      <recent name="C:\Users\LeeYounWoo\Desktop\algorithm\BAEKJOON\코딩 테스트 준비 기초\4. 그래프와 BFS" />
       <recent name="C:\Users\LeeYounWoo\Desktop\algorithm\BAEKJOON\단계별로 풀기\12.백트래킹" />
     </key>
   </component>
@@ -221,8 +251,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.4. 괄호 변환">
-    <configuration name="1. 순위검색" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.2. 보석 쇼핑">
+    <configuration name="1. 표 편집2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -230,11 +260,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/프로그래머스/카카오/Level2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/프로그래머스/카카오/Level 3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/프로그래머스/카카오/Level2/1. 순위검색.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/프로그래머스/카카오/Level 3/1. 표 편집2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -243,7 +273,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2. 메뉴 리뉴얼" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="1. 표 편집" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -251,11 +281,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/프로그래머스/카카오/Level2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/프로그래머스/카카오/Level 3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/프로그래머스/카카오/Level2/2. 메뉴 리뉴얼.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/프로그래머스/카카오/Level 3/1. 표 편집.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -264,7 +294,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="3. 문자열 압축" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="2. 보석 쇼핑" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -272,11 +302,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/프로그래머스/카카오/Level2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/프로그래머스/카카오/Level 3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/프로그래머스/카카오/Level2/3. 문자열 압축.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/프로그래머스/카카오/Level 3/2. 보석 쇼핑.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -306,7 +336,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="temp" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="s1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -314,11 +344,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/프로그래머스/카카오/Level2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/프로그래머스/카카오/Level 3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/프로그래머스/카카오/Level2/temp.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/프로그래머스/카카오/Level 3/s1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -329,11 +359,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.2. 보석 쇼핑" />
+        <item itemvalue="Python.1. 표 편집" />
+        <item itemvalue="Python.1. 표 편집2" />
+        <item itemvalue="Python.s1" />
         <item itemvalue="Python.4. 괄호 변환" />
-        <item itemvalue="Python.temp" />
-        <item itemvalue="Python.3. 문자열 압축" />
-        <item itemvalue="Python.2. 메뉴 리뉴얼" />
-        <item itemvalue="Python.1. 순위검색" />
       </list>
     </recent_temporary>
   </component>
@@ -351,10 +381,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1913" y="0" width="1934" height="2127" extended-state="0" />
+    <frame x="1912" y="-8" width="1936" height="2136" extended-state="0" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.073839664" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.07376186" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" weight="0.32967034" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
@@ -362,7 +392,7 @@
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Find" order="4" weight="0.32937893" />
       <window_info anchor="bottom" id="Version Control" order="5" />
-      <window_info anchor="bottom" id="Run" order="6" weight="0.31961867" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.3181818" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -383,34 +413,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/BAEKJOON/코딩 테스트 준비 기초/3. 다이나믹 프로그래밍/11053_가장 긴 증가하는 부분 수열.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BAEKJOON/코딩 테스트 준비 기초/3. 다이나믹 프로그래밍/input.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="33">
-          <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BAEKJOON/단계별로 풀기/15. 정수론 및 조합론/1010_다리 놓기.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BAEKJOON/단계별로 풀기/15. 정수론 및 조합론/2004_조합 0의 개수.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/BAEKJOON/단계별로 풀기/17. 동적 계획법1/00.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -672,6 +674,7 @@
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/프로그래머스/카카오/Level 3/1. 표 편집2.py" />
     <entry file="file://$PROJECT_DIR$/프로그래머스/카카오/Level2/1. 순위검색.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2310">
@@ -700,17 +703,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/프로그래머스/카카오/Level2/temp.py">
+    <entry file="file://$PROJECT_DIR$/프로그래머스/카카오/Level2/4. 괄호 변환.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="33">
-          <caret line="1" column="14" lean-forward="true" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+        <state relative-caret-position="1485">
+          <caret line="45" column="31" selection-start-line="45" selection-start-column="31" selection-end-line="45" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/프로그래머스/카카오/Level2/4. 괄호 변환.py">
+    <entry file="file://$PROJECT_DIR$/프로그래머스/카카오/Level 3/s1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1316">
-          <caret line="45" column="31" lean-forward="true" selection-start-line="45" selection-start-column="31" selection-end-line="45" selection-end-column="31" />
+        <state relative-caret-position="66">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/프로그래머스/카카오/Level2/temp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/프로그래머스/카카오/Level 3/1. 표 편집.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1122">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/프로그래머스/카카오/Level 3/2. 보석 쇼핑.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="957">
+          <caret line="29" column="20" lean-forward="true" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
