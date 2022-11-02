@@ -1,17 +1,13 @@
-def bfs(index):
-    global checked
-    global linked_list
-    for num in linked_list[index]:
-        if checked[num]:
-            continue
-        else:
-            checked[num] = True
-            bfs(num)
-    return
-
 def solution(n, computers):
-    global checked
-    global linked_list
+    def bfs(index):
+        for num in linked_list[index]:
+            if checked[num]:
+                continue
+            else:
+                checked[num] = True
+                bfs(num)
+        return
+
     checked = [False] * n
     linked_list = []
     for i in range(n):
