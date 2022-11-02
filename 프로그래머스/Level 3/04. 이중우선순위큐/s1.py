@@ -1,4 +1,4 @@
-from heapq import heappush, heappop, nlargest, nsmallest
+from heapq import heappush, nlargest, nsmallest
 def solution(operations):
     answer = []
     for operation in operations:
