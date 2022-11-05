@@ -1,17 +1,32 @@
-from heapq import heappush, nlargest, nsmallest
-def solution(operations):
-    answer = []
-    for operation in operations:
-        command, num = operation.split()
-        num = int(num)
-        if command == 'I':
-            heappush(answer, num)
-        else:
-            if num == 1:
-                answer = nlargest(len(answer), answer)[1:]
+from copy import deepcopy
+
+
+def solution(routes):
+    cnt = [0] * 60001
+    a = {}
+    for i in range(len(routes)):
+        start = min(routes[i]) + 30000
+        end = max(routes[i]) + 30000
+        for j in range(start, end+1):
+            cnt[j] += 1
+            if j in a:
+                a[j].append(i)
             else:
-                answer = nsmallest(len(answer), answer)[1:]
-    if len(answer) == 0:
-        return [0, 0]
-    else:
-        return [nlargest(1, answer)[0], nsmallest(1, answer)[0]]
+                a[j] = [i]
+
+    answer = 0
+    while sum(cnt):
+        answer += 1
+        max_index = cnt.index(max(cnt))
+        delete_list = deepcopy(a[max_index])
+        for i in delete_list:
+            start = min(routes[i]) + 30000
+            end = max(routes[i]) + 30000
+            for j in range(start, end+1):
+                cnt[j] -= 1
+                a[j].remove(i)
+
+    return answer
+
+
+print(solution([[1, 2], [3, 4], [1, 5]]))
